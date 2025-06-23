@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { Send } from "lucide-react";
-// import RefreshIcon from '@mui/icons-material/Refresh';
+// import RefreshIcon from "@mui/icons-material/Refresh";
 import {
     Card,
     CardContent,
@@ -22,6 +22,8 @@ import {
     ListItemText
 } from "@mui/material";
 import FormattedMessage from '../components/FormattedMessage';
+// Import the logo
+import procurementasslogo from '../assets/ProcurementAssIsLogo.png'; // Adjust path if necessary
 
 export const ProcurementAssistant = () => {
     const [messages, setMessages] = useState([]);
@@ -976,6 +978,17 @@ export const ProcurementAssistant = () => {
 
     const cardHeaderContent = (
         <CardHeader
+            avatar={(
+                <img 
+                    src={procurementasslogo} 
+                    alt="Procurement Assistant Logo" 
+                    style={{ 
+                        height: '50px', 
+                        width: '120px',
+                        marginRight: '-60px' 
+                    }} 
+                />
+            )}
             title="Procurement Assistant"
             action={
                 <IconButton 
@@ -1103,7 +1116,7 @@ export const ProcurementAssistant = () => {
                                 sx={{
                                     display: "flex",
                                     justifyContent: msg.role === "user" ? "flex-end" : "flex-start",
-                                    mb: 3,
+                                    mb: 2,
                                     width: "100%"
                                 }}
                             >
@@ -1132,7 +1145,7 @@ export const ProcurementAssistant = () => {
                                             <Typography 
                                                 variant="caption" 
                                                 sx={{ 
-                                                    ml: 0, // Changed from -10 to 0
+                                                    ml: 0, 
                                                     pl: 0,
                                                     mb: 0.5, 
                                                     display: "block", 
@@ -1149,7 +1162,7 @@ export const ProcurementAssistant = () => {
                                         <Paper
                                             elevation={0}
                                             sx={{
-                                                p: 2,
+                                                p: 1.2,
                                                 bgcolor: msg.role === "user"
                                                     ? colors.userBubble
                                                     : colors.botBubble,
@@ -1175,8 +1188,8 @@ export const ProcurementAssistant = () => {
                                             width: 36,
                                             height: 36,
                                             ml: 1.5,
-                                            alignSelf: "flex-start", // Changed from flex-end to flex-start
-                                            mt: 1, // Added margin-top instead of margin-bottom
+                                            alignSelf: "flex-start", 
+                                            mt: 1,
                                         }}
                                     >
                                         U
