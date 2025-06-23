@@ -73,7 +73,7 @@ export const ProcurementAssistant = () => {
         currency: "Rs"
     });
 
-    const API_BASE_URL = "http://localhost:9999";
+    const API_BASE_URL = "http://34.172.210.35:9999";
     const AGENT_NAME = "coordinator";
 
     const handleFormChange = (field, value) => {
