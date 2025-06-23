@@ -1,0 +1,492 @@
+Vendor Name,Vendor ID,Vendor Email,Laptop Model Name,Laptop Model ID,Quoted Price (INR),Available Quantity,Delivery Time (Days),Specs Matching Score,Vendor Rating,Past Orders Count,Reliability Score,Persona Role
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-5780,M-6944,78251,122,13,0.9,4.8,753,0.98,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-3838,M-5884,73247,196,11,0.98,4.4,146,0.84,Office
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-1634,M-9997,137235,130,3,0.9,4.9,759,0.96,Gaming
+Apex Retailers,V-286,apex@retailers.com,Pavilion-7773,M-1495,79375,172,4,0.97,4.6,241,0.92,Office
+Taylor-Myers,V-465,taylor-myers@systems.com,Pavilion-6310,M-3660,142772,176,3,1.0,4.8,582,0.84,Office
+Apex Retailers,V-713,apex@systems.com,Inspiron-3253,M-2006,144179,191,9,0.88,4.3,263,0.96,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-7389,M-7522,109150,148,9,0.93,4.5,840,0.8,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,Inspiron-3161,M-3022,57392,118,8,0.82,4.5,763,0.95,Office
+Apex Retailers,V-947,apex@traders.com,ROG-1907,M-9430,134664,121,11,0.89,3.8,695,0.78,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,ROG-7117,M-6566,62688,184,8,0.91,4.4,709,0.99,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,ROG-4943,M-6812,110263,127,11,0.9,4.3,253,0.87,Office
+Apex Retailers,V-286,apex@retailers.com,ThinkPad-7104,M-9515,127373,141,10,0.87,3.8,701,0.92,Gaming
+NovaTech Systems,V-224,novatech@retailers.com,Pavilion-5933,M-4168,81024,170,8,0.97,4.2,958,0.75,Office
+Carpenter PLC,V-675,carpenter@systems.com,ROG-4943,M-6812,96576,150,12,0.82,5.0,470,0.73,Business
+Zenith Suppliers,V-324,zenith@traders.com,ROG-7117,M-6566,113208,174,3,0.82,4.0,368,0.79,Developer
+Carpenter PLC,V-675,carpenter@systems.com,ROG-5780,M-6944,121211,166,3,0.82,4.3,212,0.84,Office
+Galaxy Traders,V-364,galaxy@supplies.com,ROG-1634,M-9997,69508,158,2,0.97,3.9,255,1.0,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,Pavilion-1885,M-4812,53051,109,8,0.92,4.7,146,0.73,Developer
+Apex Retailers,V-166,apex@suppliers.com,Pavilion-3838,M-5884,50301,102,13,0.92,3.6,834,0.95,Developer
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-4943,M-6812,73664,98,3,0.96,4.9,277,0.73,Office
+Horizon Supplies,V-560,horizon@traders.com,MacBook-3828,M-1433,90397,113,4,0.96,3.9,260,0.97,Office
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-2837,M-7842,116842,96,6,0.9,3.7,771,0.81,Developer
+Elite Vendors,V-870,elite@systems.com,ROG-5780,M-6944,103006,142,4,0.95,4.9,823,0.74,Gaming
+Carpenter PLC,V-850,carpenter@systems.com,Inspiron-6450,M-1825,130077,144,2,0.86,4.1,216,0.74,Business
+Apex Retailers,V-127,apex@vendor.com,Pavilion-5284,M-3554,61534,153,2,0.85,4.1,217,0.71,Office
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-2032,M-3807,144663,169,13,0.96,4.2,912,0.88,Business
+Apex Retailers,V-286,apex@retailers.com,Inspiron-2032,M-3807,83827,164,3,0.85,4.5,369,0.95,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-1907,M-9430,51802,126,7,0.82,4.1,631,0.74,Office
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-7773,M-1495,135981,80,9,0.99,4.7,313,0.92,Office
+Galaxy Traders,V-755,galaxy@distributors.com,Pavilion-5933,M-4168,61093,144,3,0.93,3.6,364,0.79,Office
+Starline Distributors,V-915,starline@traders.com,Pavilion-7773,M-1495,112592,178,12,0.81,3.5,870,0.79,Gaming
+Taylor-Myers,V-938,taylor-myers@distributors.com,Inspiron-2837,M-7842,146354,191,12,0.81,3.8,737,0.71,Business
+Galaxy Traders,V-327,galaxy@systems.com,Pavilion-6310,M-3660,88467,92,9,1.0,4.7,696,0.89,Gaming
+Taylor-Myers,V-112,taylor-myers@retailers.com,MacBook-3828,M-1433,149522,104,14,0.97,4.2,927,0.76,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,ROG-8282,M-3843,85773,95,11,0.8,3.8,154,0.86,Office
+Apex Retailers,V-319,apex@systems.com,Pavilion-1885,M-4812,142093,87,3,0.9,4.0,862,0.82,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,Inspiron-2837,M-7842,65795,173,10,0.92,3.9,200,0.99,Office
+Elite Vendors,V-870,elite@systems.com,Inspiron-2837,M-7842,91090,118,10,0.96,3.7,841,0.86,Business
+Horizon Supplies,V-560,horizon@traders.com,Inspiron-6450,M-1825,102662,151,9,0.87,4.8,276,0.75,Gaming
+Carpenter PLC,V-850,carpenter@systems.com,Pavilion-5284,M-3554,148098,108,14,0.83,4.3,241,0.81,Business
+Carpenter PLC,V-850,carpenter@systems.com,MacBook-3828,M-1433,127575,191,2,0.97,4.4,289,0.95,Gaming
+Apex Retailers,V-127,apex@vendor.com,Inspiron-7389,M-7522,55801,197,14,0.82,4.5,556,0.73,Business
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-3683,M-9616,141083,180,4,0.84,3.6,645,0.87,Gaming
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-9097,M-1413,117214,131,7,0.95,4.1,319,1.0,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-7773,M-1495,95758,193,10,0.87,4.7,930,0.78,Business
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-5780,M-6944,116199,117,12,0.95,4.7,264,0.82,Developer
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-3683,M-9616,117969,197,5,0.83,4.2,871,0.71,Gaming
+Apex Retailers,V-589,apex@distributors.com,Inspiron-3253,M-2006,89734,153,9,0.92,3.8,615,0.87,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-5933,M-4168,143468,140,3,0.97,4.9,980,0.77,Developer
+Starline Distributors,V-915,starline@traders.com,ROG-1634,M-9997,63284,161,5,0.95,3.6,945,0.93,Gaming
+Apex Retailers,V-319,apex@systems.com,Inspiron-6450,M-1825,118027,117,4,0.87,3.8,165,0.78,Business
+Orion Technologies,V-118,orion@retailers.com,ROG-3683,M-9616,119092,171,8,0.93,4.4,261,0.87,Gaming
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-5933,M-4168,68047,154,7,0.89,3.7,540,0.77,Office
+Zenith Suppliers,V-324,zenith@traders.com,Inspiron-6450,M-1825,52200,142,9,0.93,5.0,878,0.78,Office
+Horizon Supplies,V-560,horizon@traders.com,Pavilion-1435,M-8541,105820,179,9,0.82,3.6,731,0.91,Office
+Galaxy Traders,V-327,galaxy@systems.com,Pavilion-5284,M-3554,87065,169,7,0.95,4.0,575,0.78,Business
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-3838,M-5884,144841,95,6,0.93,3.7,836,0.95,Gaming
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-9097,M-1413,89099,115,2,0.93,4.1,701,0.79,Developer
+Galaxy Traders,V-364,galaxy@supplies.com,Pavilion-5284,M-3554,69830,84,6,0.97,3.5,486,0.72,Developer
+Apex Retailers,V-713,apex@systems.com,Pavilion-5284,M-3554,137939,196,5,0.97,4.0,717,0.75,Office
+Taylor-Myers,V-465,taylor-myers@systems.com,Pavilion-5933,M-4168,111389,101,4,0.96,4.1,380,0.74,Developer
+BrightTech Supplies,V-175,brighttech@retailers.com,Inspiron-7389,M-7522,65338,131,11,0.87,3.7,371,0.98,Developer
+Starline Distributors,V-915,starline@traders.com,Inspiron-3161,M-3022,127189,91,5,0.85,4.5,282,0.9,Business
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-1907,M-9430,100108,171,6,0.93,3.6,396,0.71,Office
+BrightTech Supplies,V-651,brighttech@retailers.com,ThinkPad-7104,M-9515,69738,128,8,0.82,3.5,228,0.92,Gaming
+Apex Retailers,V-127,apex@vendor.com,Pavilion-7773,M-1495,110713,196,14,0.82,3.7,754,0.86,Business
+BrightTech Supplies,V-175,brighttech@retailers.com,ROG-5780,M-6944,62185,115,7,0.97,3.5,174,0.71,Developer
+Carpenter PLC,V-675,carpenter@systems.com,ThinkPad-7104,M-9515,138614,99,11,0.93,4.7,131,0.96,Office
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-2032,M-3807,60647,133,14,0.93,5.0,687,0.97,Developer
+Zenith Suppliers,V-324,zenith@traders.com,ThinkPad-7104,M-9515,70056,135,8,0.89,5.0,542,0.77,Office
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-1435,M-8541,146825,109,9,0.85,4.1,961,0.78,Business
+Apex Retailers,V-947,apex@traders.com,Pavilion-1435,M-8541,98190,161,10,0.84,4.5,961,0.96,Developer
+Elite Vendors,V-870,elite@systems.com,ROG-1907,M-9430,124290,97,10,0.92,3.7,139,0.91,Gaming
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-7389,M-7522,106556,146,8,0.81,4.1,453,0.95,Business
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-8282,M-3843,66964,129,14,0.85,3.8,600,0.97,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-6310,M-3660,141387,194,11,0.94,4.1,500,0.77,Business
+BrightTech Supplies,V-651,brighttech@retailers.com,Inspiron-9097,M-1413,103351,180,11,0.83,4.7,700,0.72,Developer
+NovaTech Systems,V-224,novatech@retailers.com,MacBook-3828,M-1433,141412,114,2,0.98,4.0,666,0.95,Gaming
+Orion Technologies,V-260,orion@traders.com,Inspiron-4773,M-4211,105591,147,7,0.87,4.4,759,0.84,Developer
+BrightTech Supplies,V-466,brighttech@traders.com,Pavilion-1885,M-4812,120592,98,13,0.93,3.9,412,0.9,Business
+Starline Distributors,V-118,starline@supplies.com,Inspiron-7389,M-7522,111135,156,5,0.88,4.5,575,0.98,Office
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-2032,M-3807,54499,115,9,0.9,4.2,143,0.97,Office
+BrightTech Supplies,V-175,brighttech@retailers.com,Inspiron-6450,M-1825,77751,105,7,0.96,3.8,549,0.92,Office
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-8282,M-3843,119042,84,6,0.81,4.6,641,0.82,Business
+Elite Vendors,V-870,elite@systems.com,ThinkPad-7104,M-9515,72662,102,5,0.97,4.3,931,0.9,Business
+Apex Retailers,V-713,apex@systems.com,Pavilion-7773,M-1495,99377,164,9,0.94,5.0,712,0.91,Business
+Starline Distributors,V-915,starline@traders.com,Inspiron-6450,M-1825,124065,188,12,0.99,4.1,809,0.84,Gaming
+Orion Technologies,V-118,orion@retailers.com,ROG-1634,M-9997,82606,105,9,0.89,4.5,924,0.7,Business
+Apex Retailers,V-286,apex@retailers.com,ROG-3683,M-9616,130135,167,13,0.81,4.5,347,0.89,Business
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-4773,M-4211,109735,180,14,0.91,4.9,504,0.74,Business
+Taylor-Myers,V-465,taylor-myers@systems.com,Inspiron-3161,M-3022,115318,149,11,0.99,3.6,524,0.86,Developer
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-4773,M-4211,86631,156,7,0.84,3.6,800,0.84,Gaming
+Apex Retailers,V-589,apex@distributors.com,MacBook-3828,M-1433,55311,148,2,0.97,4.3,287,0.87,Developer
+Orion Technologies,V-260,orion@traders.com,ROG-4943,M-6812,136831,85,13,0.85,4.4,658,0.8,Developer
+Apex Retailers,V-166,apex@suppliers.com,ROG-8282,M-3843,116105,130,14,0.94,4.5,744,0.89,Developer
+Apex Retailers,V-589,apex@distributors.com,ROG-8282,M-3843,85920,112,8,0.91,4.8,967,0.8,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,Inspiron-4773,M-4211,96843,82,14,0.81,4.2,312,0.84,Office
+Apex Retailers,V-319,apex@systems.com,Pavilion-7773,M-1495,58716,187,8,0.91,3.9,575,0.87,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Inspiron-6450,M-1825,94064,135,7,0.84,4.1,367,0.7,Gaming
+Starline Distributors,V-595,starline@retailers.com,Inspiron-2837,M-7842,140982,150,5,0.99,4.7,668,0.89,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,Inspiron-9097,M-1413,137142,185,13,0.95,4.8,300,0.82,Business
+Starline Distributors,V-915,starline@traders.com,ROG-1907,M-9430,99726,117,7,0.84,3.7,372,0.98,Office
+Zenith Suppliers,V-324,zenith@traders.com,ROG-1907,M-9430,94078,80,13,0.84,4.0,369,0.72,Developer
+Starline Distributors,V-915,starline@traders.com,Pavilion-1435,M-8541,143016,98,9,0.98,4.6,615,0.88,Developer
+Taylor-Myers,V-112,taylor-myers@retailers.com,ROG-3683,M-9616,124740,154,6,0.99,4.5,309,0.71,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,ROG-7117,M-6566,132948,98,4,0.8,4.4,927,0.8,Business
+Carpenter PLC,V-675,carpenter@systems.com,ROG-3683,M-9616,82217,194,4,0.89,4.4,650,0.99,Office
+Zenith Suppliers,V-324,zenith@traders.com,Inspiron-9097,M-1413,124543,112,11,0.89,4.2,643,0.96,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-1435,M-8541,146276,163,14,0.88,3.5,258,0.77,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-6310,M-3660,102733,115,14,0.98,4.2,544,0.99,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-5284,M-3554,139045,141,4,0.97,4.6,952,0.77,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,Inspiron-7389,M-7522,66646,197,6,0.94,4.9,843,0.9,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Inspiron-7389,M-7522,52811,111,10,0.83,4.3,736,0.87,Developer
+Orion Technologies,V-260,orion@traders.com,ROG-3683,M-9616,95543,104,2,0.85,3.6,702,0.97,Office
+Apex Retailers,V-713,apex@systems.com,ROG-1907,M-9430,93484,191,12,0.86,4.1,228,0.74,Gaming
+Horizon Supplies,V-560,horizon@traders.com,Inspiron-2032,M-3807,63403,145,4,0.9,3.9,437,0.83,Business
+BrightTech Supplies,V-466,brighttech@traders.com,Pavilion-3838,M-5884,101663,85,12,0.98,4.0,197,0.77,Office
+Starline Distributors,V-915,starline@traders.com,Pavilion-5284,M-3554,119678,135,8,0.98,4.7,290,0.96,Business
+Orion Technologies,V-118,orion@retailers.com,Inspiron-2032,M-3807,135305,131,4,0.83,3.7,372,0.72,Office
+Starline Distributors,V-118,starline@supplies.com,Inspiron-3253,M-2006,96214,126,4,0.87,4.8,653,1.0,Business
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-2837,M-7842,58792,114,4,0.83,3.8,418,0.71,Business
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-1907,M-9430,115725,188,3,0.97,4.2,435,1.0,Office
+BrightTech Supplies,V-175,brighttech@retailers.com,Inspiron-2032,M-3807,53561,91,3,0.89,3.9,646,0.92,Gaming
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-2608,M-8957,56102,162,8,0.82,4.5,636,0.93,Gaming
+NovaTech Systems,V-224,novatech@retailers.com,ROG-1907,M-9430,111267,120,14,0.96,4.2,478,0.7,Developer
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-1885,M-4812,147504,84,13,1.0,3.6,995,0.86,Office
+Horizon Supplies,V-560,horizon@traders.com,ROG-3683,M-9616,148018,128,6,0.98,4.9,711,0.73,Business
+NovaTech Systems,V-224,novatech@retailers.com,ROG-5780,M-6944,142067,119,7,0.9,4.7,803,0.75,Office
+Zenith Suppliers,V-324,zenith@traders.com,ROG-8282,M-3843,111373,181,9,0.85,4.6,859,0.71,Business
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-4773,M-4211,121932,89,5,0.8,4.0,682,0.92,Gaming
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-2032,M-3807,114925,89,11,0.85,4.8,137,0.78,Gaming
+Apex Retailers,V-589,apex@distributors.com,Inspiron-3161,M-3022,80080,187,3,0.92,3.7,498,0.7,Developer
+Starline Distributors,V-118,starline@supplies.com,ROG-2608,M-8957,90757,81,11,0.9,4.7,580,0.94,Gaming
+Apex Retailers,V-713,apex@systems.com,Inspiron-9097,M-1413,121295,98,12,0.85,4.7,660,0.74,Developer
+Apex Retailers,V-319,apex@systems.com,ROG-2608,M-8957,65707,155,2,1.0,4.1,789,0.87,Office
+Carpenter PLC,V-850,carpenter@systems.com,ROG-5780,M-6944,58571,89,6,0.94,4.4,499,0.84,Office
+Carpenter PLC,V-850,carpenter@systems.com,ROG-8282,M-3843,53987,161,11,0.84,4.3,337,0.92,Office
+Elite Vendors,V-870,elite@systems.com,ROG-3683,M-9616,106958,111,8,0.99,4.6,533,0.98,Business
+Elite Vendors,V-870,elite@systems.com,Pavilion-5933,M-4168,78693,174,14,0.85,3.5,218,0.77,Developer
+NovaTech Systems,V-224,novatech@retailers.com,Pavilion-1435,M-8541,139474,110,10,0.97,4.3,260,0.74,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-6310,M-3660,144660,106,5,0.85,4.2,465,0.91,Gaming
+Apex Retailers,V-947,apex@traders.com,Pavilion-7773,M-1495,71357,112,13,0.83,3.7,685,0.77,Business
+Apex Retailers,V-713,apex@systems.com,Pavilion-1885,M-4812,132386,155,11,0.99,3.7,231,0.91,Gaming
+Apex Retailers,V-319,apex@systems.com,ROG-7117,M-6566,102251,92,12,0.86,4.7,448,0.78,Gaming
+BrightTech Supplies,V-175,brighttech@retailers.com,Inspiron-9097,M-1413,60627,129,7,0.81,4.5,916,0.86,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,Inspiron-3253,M-2006,112955,102,2,0.93,4.5,301,0.72,Gaming
+Galaxy Traders,V-364,galaxy@supplies.com,ROG-2608,M-8957,75945,191,9,0.85,4.6,559,0.74,Business
+Apex Retailers,V-166,apex@suppliers.com,ROG-5780,M-6944,137545,173,12,0.82,4.4,376,0.8,Office
+Galaxy Traders,V-327,galaxy@systems.com,ThinkPad-7104,M-9515,104886,195,3,0.89,4.9,722,0.99,Business
+Apex Retailers,V-589,apex@distributors.com,Inspiron-2032,M-3807,98404,105,6,0.89,4.7,991,0.71,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-2032,M-3807,67019,148,9,0.94,3.6,242,0.96,Developer
+Galaxy Traders,V-327,galaxy@systems.com,ROG-7117,M-6566,139475,123,10,0.95,4.8,784,0.83,Gaming
+Apex Retailers,V-286,apex@retailers.com,Pavilion-1885,M-4812,111858,141,5,0.98,4.0,662,0.98,Business
+Apex Retailers,V-589,apex@distributors.com,Inspiron-7389,M-7522,109638,140,13,0.92,4.0,939,0.78,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-8282,M-3843,52557,143,3,0.84,5.0,526,0.79,Office
+Horizon Supplies,V-560,horizon@traders.com,Inspiron-9097,M-1413,52747,199,8,0.91,3.6,827,0.8,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,ROG-5780,M-6944,125766,190,4,0.83,4.1,295,0.84,Developer
+Starline Distributors,V-595,starline@retailers.com,Inspiron-3161,M-3022,76309,171,8,0.9,3.7,142,1.0,Business
+Taylor-Myers,V-112,taylor-myers@retailers.com,ROG-1634,M-9997,75658,137,7,0.82,3.8,320,0.72,Developer
+Apex Retailers,V-947,apex@traders.com,Pavilion-1885,M-4812,137498,169,12,0.83,4.9,635,0.99,Office
+Elite Vendors,V-870,elite@systems.com,Inspiron-4773,M-4211,123523,163,12,0.95,5.0,914,0.92,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-6310,M-3660,83159,103,9,0.94,3.6,948,0.71,Business
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-3161,M-3022,81551,81,8,0.92,4.5,865,0.78,Business
+Apex Retailers,V-319,apex@systems.com,ROG-1634,M-9997,131734,102,6,0.86,4.2,499,0.83,Developer
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-3253,M-2006,55949,102,9,0.87,3.9,966,0.9,Gaming
+Apex Retailers,V-713,apex@systems.com,Inspiron-3161,M-3022,58392,168,7,0.81,4.0,148,0.79,Office
+Orion Technologies,V-118,orion@retailers.com,Pavilion-1885,M-4812,76854,192,5,0.97,3.9,401,0.96,Office
+Taylor-Myers,V-112,taylor-myers@retailers.com,Pavilion-5284,M-3554,113734,99,6,0.92,4.9,522,0.73,Office
+Elite Vendors,V-870,elite@systems.com,ROG-1634,M-9997,71834,186,9,0.99,5.0,974,0.88,Business
+Apex Retailers,V-166,apex@suppliers.com,ROG-1634,M-9997,73419,131,11,0.95,4.4,647,0.85,Business
+Starline Distributors,V-595,starline@retailers.com,ThinkPad-7104,M-9515,68711,181,2,1.0,4.2,359,0.78,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-5780,M-6944,59662,111,5,0.89,4.4,711,0.8,Developer
+Apex Retailers,V-319,apex@systems.com,ROG-5780,M-6944,105016,92,3,0.84,3.6,571,0.85,Business
+Apex Retailers,V-286,apex@retailers.com,ROG-8282,M-3843,101005,96,4,0.92,4.5,404,0.87,Office
+Zenith Suppliers,V-324,zenith@traders.com,ROG-2608,M-8957,72677,177,5,0.81,4.9,719,0.9,Business
+Apex Retailers,V-947,apex@traders.com,Pavilion-6310,M-3660,116412,84,14,0.98,4.6,100,0.73,Gaming
+Apex Retailers,V-947,apex@traders.com,ROG-2608,M-8957,50206,107,2,0.96,4.8,642,0.89,Business
+Apex Retailers,V-589,apex@distributors.com,Inspiron-9097,M-1413,97202,160,3,0.81,4.9,632,0.96,Office
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-2608,M-8957,59692,194,4,0.92,4.2,245,0.99,Gaming
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-2032,M-3807,111087,188,4,0.84,4.5,680,0.95,Business
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-1634,M-9997,119163,84,10,0.96,3.8,718,0.82,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-5284,M-3554,115726,153,9,0.87,4.5,894,0.76,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Inspiron-4773,M-4211,120316,136,4,0.85,3.8,859,0.72,Gaming
+Elite Vendors,V-870,elite@systems.com,Inspiron-3253,M-2006,117863,82,7,0.96,3.7,709,0.84,Office
+Apex Retailers,V-947,apex@traders.com,Inspiron-3253,M-2006,63986,102,6,0.86,4.9,976,0.84,Office
+Starline Distributors,V-915,starline@traders.com,Pavilion-3838,M-5884,123666,130,3,0.94,4.7,801,0.92,Office
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-3683,M-9616,100636,162,7,0.88,4.1,824,0.74,Office
+BrightTech Supplies,V-466,brighttech@traders.com,ThinkPad-7104,M-9515,58308,190,9,0.9,4.3,492,0.72,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-5933,M-4168,106044,104,2,0.88,4.7,262,0.95,Office
+Carpenter PLC,V-850,carpenter@systems.com,Inspiron-3253,M-2006,145742,100,12,0.96,4.8,443,0.76,Business
+Starline Distributors,V-118,starline@supplies.com,ROG-8282,M-3843,140084,169,7,0.94,4.6,388,0.85,Business
+Galaxy Traders,V-364,galaxy@supplies.com,Pavilion-3838,M-5884,139812,137,5,0.82,4.5,851,0.89,Developer
+Orion Technologies,V-260,orion@traders.com,Inspiron-7389,M-7522,82711,107,12,0.89,3.7,535,0.84,Developer
+Apex Retailers,V-127,apex@vendor.com,Inspiron-9097,M-1413,52693,118,5,0.94,4.5,912,0.72,Developer
+Taylor-Myers,V-112,taylor-myers@retailers.com,Pavilion-5933,M-4168,99811,124,7,0.97,4.4,534,0.75,Office
+BrightTech Supplies,V-651,brighttech@retailers.com,Inspiron-2837,M-7842,120467,171,9,0.96,4.3,697,0.88,Gaming
+Taylor-Myers,V-702,taylor-myers@systems.com,ROG-2608,M-8957,149299,172,9,0.94,4.1,402,0.97,Developer
+Apex Retailers,V-947,apex@traders.com,ROG-7117,M-6566,138891,84,4,0.95,4.7,897,0.84,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-8282,M-3843,58155,184,14,0.95,3.8,253,0.88,Developer
+Apex Retailers,V-166,apex@suppliers.com,ROG-3683,M-9616,84698,142,9,0.94,3.6,616,0.95,Gaming
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-6450,M-1825,80535,178,7,0.92,4.4,173,0.92,Business
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-3161,M-3022,140735,166,13,0.94,4.6,825,0.99,Developer
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-6450,M-1825,79299,139,8,0.85,4.4,873,0.88,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,Pavilion-7773,M-1495,130738,96,4,0.84,4.5,678,0.76,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-3838,M-5884,143179,128,10,0.96,4.8,857,0.7,Developer
+Orion Technologies,V-260,orion@traders.com,Pavilion-7773,M-1495,106835,184,4,0.81,4.0,623,0.73,Gaming
+Apex Retailers,V-286,apex@retailers.com,Inspiron-6450,M-1825,136202,196,8,0.83,4.3,941,0.9,Business
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-3253,M-2006,96717,124,10,0.94,4.9,672,0.81,Gaming
+Apex Retailers,V-713,apex@systems.com,Inspiron-4773,M-4211,73093,80,2,0.91,4.3,481,0.87,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-6450,M-1825,126429,158,9,0.87,4.3,791,0.96,Developer
+Horizon Supplies,V-560,horizon@traders.com,Pavilion-5284,M-3554,116803,198,4,0.97,4.9,987,0.83,Office
+Orion Technologies,V-118,orion@retailers.com,Inspiron-9097,M-1413,84766,162,10,0.94,3.9,413,0.94,Developer
+Taylor-Myers,V-702,taylor-myers@systems.com,ROG-3683,M-9616,56910,88,2,0.91,4.4,287,0.82,Office
+Apex Retailers,V-286,apex@retailers.com,Pavilion-6310,M-3660,93525,171,8,0.96,4.8,986,0.76,Developer
+Apex Retailers,V-127,apex@vendor.com,ROG-7117,M-6566,60966,182,7,0.85,4.4,378,0.9,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-3838,M-5884,81616,153,4,0.92,3.7,480,0.93,Business
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-2837,M-7842,70932,175,4,0.81,4.1,779,0.85,Office
+BrightTech Supplies,V-466,brighttech@traders.com,ROG-7117,M-6566,119479,122,13,0.99,4.6,531,0.98,Office
+Taylor-Myers,V-465,taylor-myers@systems.com,MacBook-3828,M-1433,62666,175,9,0.99,3.7,856,0.75,Office
+Starline Distributors,V-595,starline@retailers.com,Pavilion-3838,M-5884,65151,196,5,0.8,4.1,859,0.98,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-2608,M-8957,105766,93,2,0.93,4.7,406,0.98,Gaming
+Taylor-Myers,V-760,taylor-myers@suppliers.com,ROG-4943,M-6812,87194,95,14,0.95,4.2,119,0.95,Gaming
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-6450,M-1825,106491,80,10,0.9,4.2,986,0.77,Office
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-1885,M-4812,120313,130,8,0.95,4.4,388,0.78,Office
+Galaxy Traders,V-364,galaxy@supplies.com,ROG-3683,M-9616,129909,112,5,0.83,3.5,382,0.95,Office
+Apex Retailers,V-166,apex@suppliers.com,Pavilion-5284,M-3554,125450,95,8,0.86,4.4,281,0.73,Developer
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-9097,M-1413,130356,178,12,0.95,4.7,441,0.92,Gaming
+Starline Distributors,V-915,starline@traders.com,ROG-5780,M-6944,71976,88,6,0.85,4.6,618,0.93,Office
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-3683,M-9616,60729,171,5,0.91,3.9,310,0.82,Business
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-2837,M-7842,142787,125,10,0.84,3.9,247,0.86,Business
+Elite Vendors,V-870,elite@systems.com,ROG-4943,M-6812,66371,136,14,0.81,3.8,727,0.98,Business
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-2032,M-3807,66023,164,10,0.98,3.6,904,0.89,Developer
+Elite Vendors,V-870,elite@systems.com,Pavilion-6310,M-3660,84584,152,9,0.88,3.7,892,0.84,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-7389,M-7522,52695,115,8,0.99,3.5,724,0.86,Developer
+BrightTech Supplies,V-466,brighttech@traders.com,MacBook-3828,M-1433,139789,86,6,0.92,3.6,359,0.84,Office
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-2837,M-7842,61394,192,4,0.92,4.2,635,0.94,Developer
+BrightTech Supplies,V-466,brighttech@traders.com,Inspiron-3161,M-3022,137922,164,3,0.96,5.0,140,0.97,Gaming
+Apex Retailers,V-319,apex@systems.com,ROG-4943,M-6812,145259,174,6,0.99,4.3,795,0.96,Gaming
+Apex Retailers,V-947,apex@traders.com,Inspiron-3161,M-3022,139480,174,5,0.88,4.8,306,0.73,Office
+Horizon Supplies,V-560,horizon@traders.com,Pavilion-6310,M-3660,56295,169,7,0.95,3.7,196,0.84,Business
+Apex Retailers,V-286,apex@retailers.com,ROG-5780,M-6944,104240,116,7,0.8,4.5,739,0.71,Business
+Taylor-Myers,V-465,taylor-myers@systems.com,Inspiron-2032,M-3807,143557,191,13,0.96,4.8,181,0.73,Gaming
+Apex Retailers,V-713,apex@systems.com,Pavilion-1435,M-8541,68589,100,11,0.92,4.1,115,0.84,Developer
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-5780,M-6944,106250,124,2,0.87,4.9,778,1.0,Gaming
+Galaxy Traders,V-364,galaxy@supplies.com,ROG-4943,M-6812,141906,123,14,0.81,4.2,979,0.86,Office
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-3161,M-3022,63545,116,9,0.88,3.6,412,0.7,Office
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-3161,M-3022,136807,199,14,0.91,4.2,223,0.96,Developer
+NovaTech Systems,V-224,novatech@retailers.com,ROG-2608,M-8957,100015,190,6,0.9,4.8,507,0.73,Gaming
+Orion Technologies,V-260,orion@traders.com,ROG-7117,M-6566,92557,121,9,0.89,3.6,655,0.84,Gaming
+Starline Distributors,V-118,starline@supplies.com,Pavilion-5933,M-4168,52911,197,2,0.9,4.9,670,0.92,Office
+Starline Distributors,V-595,starline@retailers.com,ROG-1907,M-9430,104268,95,12,0.93,4.9,975,0.75,Gaming
+Apex Retailers,V-166,apex@suppliers.com,Pavilion-1435,M-8541,126820,141,11,0.91,4.3,231,0.91,Office
+Orion Technologies,V-260,orion@traders.com,Pavilion-1885,M-4812,136779,100,10,0.96,4.1,236,0.95,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,MacBook-3828,M-1433,104748,133,13,0.96,3.6,975,0.82,Business
+Orion Technologies,V-260,orion@traders.com,Pavilion-3838,M-5884,122409,114,14,0.95,3.7,727,0.78,Office
+Apex Retailers,V-319,apex@systems.com,Inspiron-2837,M-7842,118497,96,13,0.85,3.9,603,0.71,Office
+Elite Vendors,V-870,elite@systems.com,Inspiron-7389,M-7522,85222,192,4,0.94,3.7,681,0.7,Developer
+Elite Vendors,V-870,elite@systems.com,ROG-7117,M-6566,83828,84,12,0.85,4.5,261,0.75,Developer
+Apex Retailers,V-127,apex@vendor.com,ROG-1907,M-9430,101214,152,6,0.85,4.4,604,0.77,Developer
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-2837,M-7842,137897,174,2,0.87,3.8,763,0.88,Business
+Apex Retailers,V-319,apex@systems.com,Inspiron-3161,M-3022,130623,192,11,0.97,4.0,613,0.81,Business
+Apex Retailers,V-286,apex@retailers.com,Inspiron-3161,M-3022,89384,93,14,0.99,4.0,167,0.81,Developer
+Starline Distributors,V-118,starline@supplies.com,ROG-4943,M-6812,111228,103,7,0.9,4.6,599,0.82,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-7773,M-1495,82745,189,2,0.83,4.6,765,0.95,Office
+Apex Retailers,V-319,apex@systems.com,ROG-1907,M-9430,139135,96,7,0.82,4.1,455,0.96,Business
+Galaxy Traders,V-364,galaxy@supplies.com,Pavilion-1435,M-8541,56776,86,12,0.84,4.4,302,0.82,Business
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-3253,M-2006,104384,195,6,0.92,4.0,829,0.87,Gaming
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Inspiron-2837,M-7842,65708,137,5,0.97,4.1,243,0.95,Developer
+Apex Retailers,V-319,apex@systems.com,Pavilion-5284,M-3554,85777,183,2,0.81,4.9,585,0.74,Developer
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-9097,M-1413,96175,83,3,0.95,3.5,350,0.86,Developer
+Starline Distributors,V-915,starline@traders.com,ROG-8282,M-3843,101885,124,12,0.96,3.6,326,0.86,Office
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-9097,M-1413,69190,82,9,0.98,4.6,824,0.76,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-7117,M-6566,95017,151,2,0.97,4.7,476,0.96,Office
+Galaxy Traders,V-327,galaxy@systems.com,Pavilion-1885,M-4812,143848,143,2,0.99,4.7,995,0.71,Office
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-6310,M-3660,129575,163,3,0.94,4.5,359,0.95,Office
+Horizon Supplies,V-560,horizon@traders.com,Pavilion-7773,M-1495,55539,171,13,0.89,3.6,890,1.0,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,ROG-1634,M-9997,137092,92,2,0.82,3.9,453,0.84,Office
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-8282,M-3843,128657,130,3,0.94,4.4,174,0.98,Developer
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-2837,M-7842,88623,98,2,0.9,4.0,692,0.74,Business
+Apex Retailers,V-286,apex@retailers.com,ROG-1634,M-9997,60965,92,4,0.96,3.7,740,0.9,Office
+Orion Technologies,V-260,orion@traders.com,Inspiron-9097,M-1413,117215,100,2,0.83,3.5,758,0.71,Gaming
+Starline Distributors,V-118,starline@supplies.com,Inspiron-4773,M-4211,122694,181,11,0.99,3.7,125,0.86,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,ThinkPad-7104,M-9515,136416,145,9,0.89,3.8,567,1.0,Developer
+Starline Distributors,V-915,starline@traders.com,Inspiron-2837,M-7842,60492,153,10,0.9,4.8,936,0.82,Gaming
+Starline Distributors,V-118,starline@supplies.com,Pavilion-6310,M-3660,92642,107,6,0.95,4.9,165,0.88,Business
+Elite Vendors,V-870,elite@systems.com,Inspiron-6450,M-1825,104340,149,8,0.97,3.7,955,0.87,Office
+Taylor-Myers,V-112,taylor-myers@retailers.com,Pavilion-3838,M-5884,116690,171,11,0.86,4.3,998,0.92,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-7773,M-1495,102921,177,3,0.93,4.5,761,0.87,Office
+Galaxy Traders,V-327,galaxy@systems.com,Pavilion-3838,M-5884,53436,144,8,0.98,4.6,974,0.97,Business
+Zenith Suppliers,V-324,zenith@traders.com,Inspiron-2837,M-7842,88660,116,7,0.99,4.2,525,0.82,Gaming
+Carpenter PLC,V-850,carpenter@systems.com,Pavilion-1435,M-8541,73776,137,13,0.93,5.0,738,0.97,Developer
+Carpenter PLC,V-675,carpenter@systems.com,ROG-1907,M-9430,88360,106,10,0.82,3.6,808,0.77,Office
+Starline Distributors,V-595,starline@retailers.com,Pavilion-1885,M-4812,97333,197,7,0.81,3.9,725,0.94,Office
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-4773,M-4211,120271,89,10,0.99,4.1,553,0.73,Office
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-5933,M-4168,63500,146,4,0.9,3.8,657,0.98,Office
+Carpenter PLC,V-850,carpenter@systems.com,Inspiron-3161,M-3022,123744,178,5,0.88,4.6,913,0.95,Business
+Apex Retailers,V-713,apex@systems.com,ROG-3683,M-9616,87157,80,7,0.98,4.6,297,0.99,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-1634,M-9997,106179,83,2,0.86,4.8,954,0.93,Business
+Apex Retailers,V-166,apex@suppliers.com,ROG-4943,M-6812,99080,137,3,0.88,3.5,940,0.95,Gaming
+Horizon Supplies,V-560,horizon@traders.com,ROG-2608,M-8957,102992,184,5,0.97,3.6,785,0.82,Business
+Apex Retailers,V-319,apex@systems.com,Inspiron-7389,M-7522,123530,87,6,0.83,4.3,120,0.88,Office
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-3253,M-2006,58680,180,3,0.92,4.1,803,0.94,Developer
+Zenith Suppliers,V-324,zenith@traders.com,ROG-5780,M-6944,75342,118,4,0.85,3.6,593,0.93,Developer
+Apex Retailers,V-319,apex@systems.com,Inspiron-9097,M-1413,114505,134,13,0.97,4.0,680,0.9,Developer
+Orion Technologies,V-118,orion@retailers.com,ROG-7117,M-6566,128603,184,2,0.85,4.6,803,0.99,Business
+Galaxy Traders,V-327,galaxy@systems.com,ROG-1907,M-9430,104045,142,10,0.84,4.9,787,0.79,Office
+Horizon Supplies,V-560,horizon@traders.com,ROG-1634,M-9997,100859,193,2,0.97,4.1,127,0.83,Office
+Apex Retailers,V-319,apex@systems.com,Pavilion-3838,M-5884,100993,91,8,0.96,3.5,325,0.91,Business
+Taylor-Myers,V-112,taylor-myers@retailers.com,Pavilion-7773,M-1495,56893,199,11,0.93,4.2,358,0.98,Gaming
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-3161,M-3022,134651,168,9,0.86,4.3,842,0.96,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,MacBook-3828,M-1433,57400,103,12,0.83,4.3,546,0.83,Developer
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-6450,M-1825,56655,126,14,0.84,4.7,516,0.74,Developer
+Apex Retailers,V-713,apex@systems.com,Pavilion-6310,M-3660,89504,175,4,0.81,4.9,809,0.9,Business
+Starline Distributors,V-915,starline@traders.com,Inspiron-9097,M-1413,116617,197,7,0.85,4.6,214,0.9,Gaming
+Apex Retailers,V-319,apex@systems.com,Inspiron-4773,M-4211,72399,148,7,0.93,3.7,309,0.94,Gaming
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-5284,M-3554,58110,179,7,0.92,4.2,937,0.88,Business
+Carpenter PLC,V-850,carpenter@systems.com,ThinkPad-7104,M-9515,132989,134,7,0.94,4.2,674,0.91,Business
+Apex Retailers,V-713,apex@systems.com,MacBook-3828,M-1433,137313,91,11,0.9,4.5,159,0.92,Office
+Taylor-Myers,V-112,taylor-myers@retailers.com,ThinkPad-7104,M-9515,129634,186,2,0.97,4.3,401,0.82,Business
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-7389,M-7522,102995,125,5,0.81,4.6,282,0.77,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,ROG-2608,M-8957,111434,151,5,0.99,3.5,895,0.85,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-1885,M-4812,74300,193,3,0.83,4.2,498,0.83,Office
+Apex Retailers,V-947,apex@traders.com,MacBook-3828,M-1433,143384,112,2,0.92,3.6,156,0.75,Gaming
+Starline Distributors,V-595,starline@retailers.com,Inspiron-7389,M-7522,59474,119,13,0.96,3.6,754,0.75,Business
+Apex Retailers,V-127,apex@vendor.com,Inspiron-2837,M-7842,143426,136,11,0.85,3.8,717,0.82,Gaming
+Starline Distributors,V-118,starline@supplies.com,Inspiron-2837,M-7842,117221,179,7,0.89,5.0,568,0.89,Developer
+NovaTech Systems,V-224,novatech@retailers.com,Pavilion-7773,M-1495,106886,159,9,0.98,4.8,999,0.79,Gaming
+Horizon Supplies,V-560,horizon@traders.com,ROG-1907,M-9430,68431,80,13,0.85,5.0,614,0.96,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,Pavilion-3838,M-5884,98925,166,10,0.88,4.4,949,0.86,Developer
+Orion Technologies,V-260,orion@traders.com,Pavilion-5933,M-4168,137054,157,13,1.0,3.8,695,0.97,Developer
+Apex Retailers,V-947,apex@traders.com,Pavilion-5933,M-4168,128069,113,7,0.87,3.8,463,0.78,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,Inspiron-3253,M-2006,126213,175,2,0.96,4.3,585,0.73,Developer
+BrightTech Supplies,V-175,brighttech@retailers.com,Pavilion-5933,M-4168,105680,146,2,0.84,4.7,672,0.81,Business
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-1435,M-8541,88044,180,7,0.97,4.3,936,0.83,Office
+Taylor-Myers,V-465,taylor-myers@systems.com,ThinkPad-7104,M-9515,118148,122,13,0.88,4.5,208,0.91,Developer
+Starline Distributors,V-915,starline@traders.com,Inspiron-7389,M-7522,72671,104,5,0.94,3.9,121,0.95,Developer
+Carpenter PLC,V-850,carpenter@systems.com,Pavilion-3838,M-5884,95236,180,12,0.94,4.9,670,0.86,Office
+Orion Technologies,V-118,orion@retailers.com,Pavilion-1435,M-8541,100336,96,5,0.87,4.4,230,0.76,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,Inspiron-4773,M-4211,94262,153,13,0.99,4.5,169,0.73,Business
+Apex Retailers,V-713,apex@systems.com,Inspiron-7389,M-7522,91606,170,13,0.98,4.4,693,0.78,Developer
+Elite Vendors,V-870,elite@systems.com,Inspiron-9097,M-1413,54014,141,13,0.82,3.6,576,0.79,Developer
+Orion Technologies,V-260,orion@traders.com,Inspiron-2837,M-7842,112003,124,5,0.85,4.3,952,0.99,Business
+Apex Retailers,V-589,apex@distributors.com,Pavilion-1435,M-8541,79855,95,5,0.97,3.6,157,0.79,Gaming
+Apex Retailers,V-286,apex@retailers.com,Pavilion-3838,M-5884,61411,159,8,0.97,3.8,393,0.93,Gaming
+Apex Retailers,V-947,apex@traders.com,ROG-1634,M-9997,120031,102,14,1.0,4.5,774,0.87,Business
+Starline Distributors,V-118,starline@supplies.com,Pavilion-3838,M-5884,56265,148,2,0.86,3.6,480,0.95,Developer
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-3253,M-2006,117270,164,5,0.8,3.7,749,0.79,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,ThinkPad-7104,M-9515,82093,89,10,0.92,4.6,739,0.7,Office
+NovaTech Systems,V-224,novatech@retailers.com,ROG-4943,M-6812,52568,128,5,0.99,4.9,149,0.95,Business
+Orion Technologies,V-118,orion@retailers.com,Inspiron-3161,M-3022,137455,137,3,0.9,5.0,780,0.86,Gaming
+Carpenter PLC,V-850,carpenter@systems.com,ROG-2608,M-8957,105609,161,2,0.81,3.8,750,0.74,Business
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-9097,M-1413,135616,187,9,0.91,4.5,807,0.98,Developer
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-9097,M-1413,92941,172,12,0.98,4.2,349,0.96,Business
+Carpenter PLC,V-850,carpenter@systems.com,ROG-1907,M-9430,98984,143,7,0.84,4.7,672,0.71,Business
+Apex Retailers,V-319,apex@systems.com,Pavilion-5933,M-4168,109040,87,7,0.94,4.5,653,0.83,Business
+Apex Retailers,V-589,apex@distributors.com,Inspiron-2837,M-7842,76736,118,9,0.88,4.3,589,0.82,Developer
+Horizon Supplies,V-560,horizon@traders.com,ROG-7117,M-6566,69457,108,2,0.84,4.1,839,0.94,Gaming
+Apex Retailers,V-127,apex@vendor.com,Inspiron-2032,M-3807,123969,112,4,0.95,4.5,977,0.96,Gaming
+BrightTech Supplies,V-651,brighttech@retailers.com,Pavilion-7773,M-1495,134654,83,14,0.84,4.8,797,0.89,Developer
+Apex Retailers,V-947,apex@traders.com,ROG-8282,M-3843,123656,128,5,0.91,4.5,482,0.88,Office
+Taylor-Myers,V-702,taylor-myers@systems.com,ROG-8282,M-3843,90818,193,8,0.96,4.6,874,0.8,Developer
+Orion Technologies,V-260,orion@traders.com,ROG-5780,M-6944,145839,144,6,0.84,4.3,230,0.86,Business
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-4773,M-4211,108335,108,9,0.88,4.2,858,0.89,Gaming
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-7773,M-1495,134478,175,11,0.92,4.5,625,0.96,Office
+Apex Retailers,V-947,apex@traders.com,Inspiron-2032,M-3807,68070,192,6,0.94,3.5,471,0.87,Office
+Starline Distributors,V-595,starline@retailers.com,MacBook-3828,M-1433,148506,140,4,0.94,4.3,628,0.71,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,ROG-1634,M-9997,133879,178,6,0.93,4.8,930,0.92,Business
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-6450,M-1825,101407,87,12,0.8,4.0,353,0.81,Office
+Starline Distributors,V-595,starline@retailers.com,ROG-1634,M-9997,114044,132,14,1.0,3.8,681,0.76,Office
+Starline Distributors,V-915,starline@traders.com,Pavilion-5933,M-4168,100300,129,4,0.94,4.0,936,0.95,Developer
+BrightTech Supplies,V-466,brighttech@traders.com,Pavilion-5284,M-3554,148806,155,5,0.97,4.9,463,0.92,Business
+Starline Distributors,V-915,starline@traders.com,Inspiron-4773,M-4211,116557,92,14,0.81,4.0,449,0.89,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-4943,M-6812,77266,140,7,0.8,4.3,281,0.97,Business
+Galaxy Traders,V-327,galaxy@systems.com,ROG-2608,M-8957,113335,165,11,0.91,4.6,394,0.78,Business
+Starline Distributors,V-915,starline@traders.com,Inspiron-2032,M-3807,55237,83,11,0.99,4.6,506,0.91,Developer
+Apex Retailers,V-589,apex@distributors.com,Pavilion-7773,M-1495,94131,169,10,0.97,4.0,326,0.89,Office
+Apex Retailers,V-286,apex@retailers.com,ROG-7117,M-6566,120091,109,12,0.97,4.7,485,0.71,Developer
+Galaxy Traders,V-327,galaxy@systems.com,MacBook-3828,M-1433,140852,154,3,0.97,4.3,500,0.92,Office
+Galaxy Traders,V-327,galaxy@systems.com,Inspiron-6450,M-1825,128953,174,10,0.92,4.7,212,0.74,Developer
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-1435,M-8541,98354,179,9,0.94,3.6,277,0.89,Office
+Horizon Supplies,V-560,horizon@traders.com,ROG-4943,M-6812,50769,173,12,0.85,3.5,970,0.77,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Pavilion-5933,M-4168,112623,132,11,0.87,4.4,947,0.86,Business
+NovaTech Systems,V-224,novatech@retailers.com,Inspiron-7389,M-7522,53890,111,12,0.84,4.8,769,0.9,Gaming
+Apex Retailers,V-589,apex@distributors.com,Pavilion-5933,M-4168,122991,83,11,0.83,4.6,575,0.77,Gaming
+Apex Retailers,V-127,apex@vendor.com,ROG-3683,M-9616,132750,156,4,0.84,3.8,728,0.71,Developer
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-4943,M-6812,79592,144,2,0.89,3.6,230,0.88,Gaming
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-2837,M-7842,144209,170,4,0.87,3.6,426,0.79,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-2608,M-8957,52049,91,12,0.87,4.1,881,0.73,Office
+Taylor-Myers,V-465,taylor-myers@systems.com,Pavilion-7773,M-1495,145285,177,11,0.89,3.9,992,0.9,Developer
+BrightTech Supplies,V-175,brighttech@retailers.com,Pavilion-1435,M-8541,106661,158,14,0.89,4.1,882,0.96,Business
+Apex Retailers,V-166,apex@suppliers.com,Pavilion-5933,M-4168,55895,190,7,0.9,3.8,319,0.82,Business
+Apex Retailers,V-589,apex@distributors.com,ROG-1634,M-9997,115733,171,8,0.97,4.7,941,0.75,Business
+Apex Retailers,V-166,apex@suppliers.com,ROG-2608,M-8957,133211,83,10,0.83,4.6,483,0.77,Gaming
+Apex Retailers,V-319,apex@systems.com,Pavilion-6310,M-3660,117172,140,9,0.93,3.8,728,0.76,Developer
+Apex Retailers,V-589,apex@distributors.com,ROG-3683,M-9616,62874,129,11,1.0,4.5,778,0.94,Gaming
+NovaTech Systems,V-224,novatech@retailers.com,Pavilion-6310,M-3660,136672,132,6,0.85,4.6,326,0.94,Business
+Apex Retailers,V-127,apex@vendor.com,Inspiron-3161,M-3022,122082,140,14,0.95,4.2,185,0.75,Office
+Orion Technologies,V-260,orion@traders.com,ThinkPad-7104,M-9515,135067,98,3,0.83,4.3,646,0.96,Developer
+Starline Distributors,V-118,starline@supplies.com,Pavilion-5284,M-3554,123847,145,4,0.99,4.7,412,0.93,Gaming
+Starline Distributors,V-118,starline@supplies.com,Inspiron-6450,M-1825,132018,197,2,0.94,4.5,406,0.79,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-3838,M-5884,95714,177,10,0.8,3.7,748,0.9,Business
+Galaxy Traders,V-364,galaxy@supplies.com,ThinkPad-7104,M-9515,97254,94,9,0.87,5.0,977,0.84,Gaming
+Starline Distributors,V-595,starline@retailers.com,ROG-2608,M-8957,118840,165,6,0.91,4.0,698,0.95,Developer
+BrightTech Supplies,V-651,brighttech@retailers.com,Inspiron-3253,M-2006,93585,188,3,0.8,4.8,304,0.94,Business
+Carpenter PLC,V-850,carpenter@systems.com,Inspiron-9097,M-1413,130038,103,3,0.88,4.9,287,0.85,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,ThinkPad-7104,M-9515,50854,153,14,0.85,4.2,697,0.74,Gaming
+Apex Retailers,V-589,apex@distributors.com,Inspiron-6450,M-1825,139912,173,9,0.81,4.1,255,0.98,Office
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-5780,M-6944,144856,106,9,0.98,3.8,591,0.98,Office
+Starline Distributors,V-595,starline@retailers.com,Inspiron-9097,M-1413,52869,163,5,0.99,3.7,607,0.93,Office
+Galaxy Traders,V-364,galaxy@supplies.com,Inspiron-4773,M-4211,134896,115,11,1.0,4.8,342,0.84,Developer
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-1885,M-4812,55258,192,8,0.91,4.8,353,0.87,Office
+Elite Vendors,V-870,elite@systems.com,Pavilion-3838,M-5884,98555,91,8,0.87,3.6,641,0.97,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,ThinkPad-7104,M-9515,116320,118,5,0.94,4.5,494,0.95,Office
+Zenith Suppliers,V-153,zenith@suppliers.com,Inspiron-3161,M-3022,50860,189,13,0.88,3.6,797,0.74,Business
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-5284,M-3554,98747,198,8,0.89,4.8,553,0.85,Developer
+Orion Technologies,V-260,orion@traders.com,Inspiron-3253,M-2006,103222,106,14,0.87,4.3,649,0.71,Developer
+Carpenter PLC,V-675,carpenter@systems.com,ROG-2608,M-8957,126552,140,8,0.92,4.5,505,0.99,Developer
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-3253,M-2006,51016,184,10,0.85,3.8,297,0.84,Developer
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-1907,M-9430,89353,168,11,0.98,4.5,956,0.75,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,Pavilion-5933,M-4168,117435,103,12,0.83,4.5,599,0.95,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Pavilion-1885,M-4812,61111,136,2,0.91,4.0,490,0.91,Gaming
+Galaxy Traders,V-364,galaxy@supplies.com,Pavilion-5933,M-4168,116235,132,4,0.91,4.2,346,0.77,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-1634,M-9997,113704,168,6,0.95,4.0,970,0.95,Gaming
+Starline Distributors,V-915,starline@traders.com,MacBook-3828,M-1433,80746,90,4,0.83,3.9,619,0.78,Developer
+BrightTech Supplies,V-651,brighttech@retailers.com,Pavilion-5933,M-4168,66896,87,8,0.87,4.2,745,0.93,Gaming
+Zenith Suppliers,V-153,zenith@suppliers.com,ROG-1907,M-9430,73483,180,11,0.86,5.0,175,0.72,Gaming
+Elite Vendors,V-870,elite@systems.com,Pavilion-5284,M-3554,55600,138,11,0.92,4.3,359,0.87,Office
+Galaxy Traders,V-755,galaxy@distributors.com,ROG-4943,M-6812,87504,97,7,0.96,3.6,376,0.97,Office
+Apex Retailers,V-286,apex@retailers.com,Inspiron-3253,M-2006,75184,135,14,0.94,4.0,211,0.91,Gaming
+Taylor-Myers,V-702,taylor-myers@systems.com,Pavilion-6310,M-3660,114820,112,9,0.8,4.9,921,0.83,Gaming
+Taylor-Myers,V-112,taylor-myers@retailers.com,ROG-4943,M-6812,73328,125,11,0.88,4.4,171,0.89,Developer
+Apex Retailers,V-286,apex@retailers.com,ROG-1907,M-9430,59268,108,12,0.84,4.3,177,0.86,Gaming
+Elite Vendors,V-870,elite@systems.com,Pavilion-1885,M-4812,149713,174,10,0.94,4.0,671,0.75,Office
+Galaxy Traders,V-364,galaxy@supplies.com,Pavilion-7773,M-1495,80306,133,9,0.99,4.8,475,0.72,Developer
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-2837,M-7842,145003,93,2,0.84,4.4,327,0.82,Gaming
+Starline Distributors,V-118,starline@supplies.com,Pavilion-7773,M-1495,95525,188,2,0.95,4.7,947,0.89,Developer
+Apex Retailers,V-127,apex@vendor.com,Pavilion-1435,M-8541,122789,171,12,0.93,4.6,606,0.84,Developer
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-1907,M-9430,129309,91,11,0.85,4.7,908,0.86,Business
+Apex Retailers,V-589,apex@distributors.com,ROG-7117,M-6566,96975,152,12,0.99,3.7,367,0.99,Business
+BrightTech Supplies,V-175,brighttech@retailers.com,ROG-7117,M-6566,53343,175,6,0.83,4.7,987,0.91,Office
+Apex Retailers,V-166,apex@suppliers.com,ThinkPad-7104,M-9515,108871,194,10,0.81,4.1,203,0.86,Developer
+Taylor-Myers,V-760,taylor-myers@suppliers.com,MacBook-3828,M-1433,92107,117,5,0.95,4.9,165,0.85,Developer
+BrightTech Supplies,V-651,brighttech@retailers.com,ROG-8282,M-3843,67159,146,10,0.94,5.0,413,0.84,Gaming
+Starline Distributors,V-915,starline@traders.com,Pavilion-6310,M-3660,146752,132,12,0.9,4.8,605,0.87,Gaming
+Galaxy Traders,V-755,galaxy@distributors.com,Pavilion-5284,M-3554,73897,130,6,0.85,3.7,763,0.71,Gaming
+Apex Retailers,V-713,apex@systems.com,ROG-2608,M-8957,133613,113,7,0.98,3.7,290,0.92,Developer
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-3161,M-3022,76105,97,8,0.92,4.5,632,0.82,Gaming
+Apex Retailers,V-589,apex@distributors.com,ThinkPad-7104,M-9515,144476,167,14,0.83,4.9,905,0.81,Developer
+Apex Retailers,V-127,apex@vendor.com,Pavilion-1885,M-4812,55530,129,2,0.99,4.0,765,0.93,Developer
+Apex Retailers,V-947,apex@traders.com,ROG-3683,M-9616,59435,100,8,0.92,4.0,523,0.96,Business
+Galaxy Traders,V-755,galaxy@distributors.com,Pavilion-3838,M-5884,108053,121,4,0.87,4.8,298,0.89,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,ROG-1634,M-9997,75939,114,2,0.82,4.1,695,0.72,Gaming
+Apex Retailers,V-127,apex@vendor.com,ROG-2608,M-8957,117121,153,11,0.93,4.4,118,0.75,Developer
+Starline Distributors,V-595,starline@retailers.com,Pavilion-5933,M-4168,93001,112,10,0.82,4.1,310,0.72,Office
+Elite Vendors,V-870,elite@systems.com,Inspiron-3161,M-3022,89790,165,10,0.81,3.7,712,0.89,Gaming
+Starline Distributors,V-118,starline@supplies.com,ThinkPad-7104,M-9515,102083,156,4,0.93,4.7,676,0.86,Gaming
+Carpenter PLC,V-850,carpenter@systems.com,ROG-7117,M-6566,84754,126,6,0.83,5.0,687,0.95,Office
+Apex Retailers,V-127,apex@vendor.com,Pavilion-3838,M-5884,103707,113,2,0.91,4.5,119,0.95,Gaming
+Zenith Suppliers,V-324,zenith@traders.com,MacBook-3828,M-1433,140272,108,6,0.85,5.0,584,0.86,Office
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-3683,M-9616,51150,159,5,0.83,4.5,944,0.87,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,Pavilion-7773,M-1495,72299,118,13,0.81,4.6,828,0.97,Gaming
+Taylor-Myers,V-465,taylor-myers@systems.com,ROG-1634,M-9997,146601,95,5,0.86,4.4,178,0.71,Developer
+Apex Retailers,V-127,apex@vendor.com,ROG-4943,M-6812,122615,96,8,0.93,4.3,541,0.82,Office
+Taylor-Myers,V-760,taylor-myers@suppliers.com,Inspiron-3161,M-3022,53748,145,7,0.99,4.0,987,0.8,Developer
+Apex Retailers,V-713,apex@systems.com,Inspiron-2032,M-3807,132074,113,2,0.81,4.0,745,0.92,Office
+Orion Technologies,V-260,orion@traders.com,ROG-1907,M-9430,62183,137,9,0.89,3.8,326,0.88,Office
+Elite Vendors,V-870,elite@systems.com,Inspiron-2032,M-3807,149157,117,13,1.0,4.6,275,0.73,Developer
+Apex Retailers,V-589,apex@distributors.com,Pavilion-1885,M-4812,147888,168,6,0.9,4.2,718,0.86,Office
+NovaTech Systems,V-224,novatech@retailers.com,ROG-8282,M-3843,133763,154,7,0.86,4.7,710,0.8,Gaming
+NovaTech Systems,V-224,novatech@retailers.com,ThinkPad-7104,M-9515,127505,196,13,0.89,4.0,107,0.92,Gaming
+BrightTech Supplies,V-466,brighttech@traders.com,Pavilion-5933,M-4168,68141,148,14,1.0,3.9,513,0.89,Developer
+Taylor-Myers,V-112,taylor-myers@retailers.com,Inspiron-6450,M-1825,74538,138,14,0.86,4.4,891,0.94,Business
+Apex Retailers,V-166,apex@suppliers.com,Inspiron-2837,M-7842,121910,91,4,0.88,3.9,319,0.86,Office
+Starline Distributors,V-595,starline@retailers.com,Pavilion-6310,M-3660,82635,148,12,0.9,4.7,769,0.82,Office
+Apex Retailers,V-947,apex@traders.com,Pavilion-3838,M-5884,90774,178,8,1.0,4.6,237,0.78,Gaming
+Taylor-Myers,V-702,taylor-myers@systems.com,Inspiron-3253,M-2006,135314,164,7,0.81,3.6,452,0.92,Gaming
+Apex Retailers,V-127,apex@vendor.com,Pavilion-5933,M-4168,132798,154,9,0.89,4.8,658,0.88,Gaming
+Taylor-Myers,V-112,taylor-myers@retailers.com,ROG-7117,M-6566,101990,134,12,0.92,4.3,863,0.84,Business
+Carpenter PLC,V-850,carpenter@systems.com,Inspiron-4773,M-4211,67429,198,6,0.95,4.1,976,0.7,Business
+Taylor-Myers,V-938,taylor-myers@distributors.com,ROG-7117,M-6566,143264,133,8,0.82,3.8,994,0.82,Office
+Carpenter PLC,V-675,carpenter@systems.com,ROG-8282,M-3843,57805,183,8,0.83,3.9,318,0.73,Office
+NovaTech Systems,V-224,novatech@retailers.com,ROG-7117,M-6566,102256,109,9,0.82,3.9,360,0.92,Developer
+Apex Retailers,V-589,apex@distributors.com,ROG-4943,M-6812,128832,84,5,0.82,4.8,253,0.81,Developer
+BrightTech Supplies,V-651,brighttech@retailers.com,Inspiron-3161,M-3022,133104,179,9,1.0,4.2,156,0.79,Office
+BrightTech Supplies,V-175,brighttech@retailers.com,Inspiron-3161,M-3022,71959,88,4,0.81,3.8,525,0.71,Gaming
+Carpenter PLC,V-675,carpenter@systems.com,Inspiron-3253,M-2006,115697,160,5,0.82,3.5,862,1.0,Developer
+Apex Retailers,V-319,apex@systems.com,Inspiron-2032,M-3807,137538,182,4,0.98,3.9,729,0.71,Business
+Galaxy Traders,V-364,galaxy@supplies.com,MacBook-3828,M-1433,71918,110,5,0.93,4.5,983,0.71,Gaming
+Galaxy Traders,V-327,galaxy@systems.com,ROG-4943,M-6812,90764,156,6,0.86,3.6,886,0.73,Gaming
+BrightTech Supplies,V-175,brighttech@retailers.com,ROG-8282,M-3843,104021,160,8,0.97,3.9,223,0.84,Developer
+Galaxy Traders,V-755,galaxy@distributors.com,Inspiron-7389,M-7522,117563,191,9,0.94,3.8,718,0.95,Office

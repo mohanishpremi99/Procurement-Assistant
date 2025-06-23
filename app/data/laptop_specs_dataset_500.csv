@@ -1,0 +1,501 @@
+Manufacturer,Brand,Model Name / Number,Type of Laptop,Screen Size (inches),Screen Type,CPU,RAM,Storage,GPU,Operating System,OS Version,Weight (kg),Price (INR),Rating,Persona Role
+Lenovo,Inspiron,Inspiron-1723,Office,16.0,FHD IPS,Intel i7,8GB,1TB SSD,Integrated,Windows,Ventura,1.8,147870,4.1,Office
+Lenovo,MacBook,MacBook-4457,Gaming,15.6,QHD OLED,Apple M2,32GB,1TB SSD,Integrated,Windows,12,1.8,78682,3.9,Business
+Apple,ROG,ROG-9896,Office,16.0,QHD OLED,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,Windows,11,1.2,76880,4.5,Developer
+Asus,Inspiron,Inspiron-9368,Gaming,16.0,QHD OLED,Ryzen 5,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.2,78396,4.2,Gaming
+Apple,ThinkPad,ThinkPad-3171,Office,13.3,Retina,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.6,91215,4.7,Developer
+HP,Pavilion,Pavilion-6757,Office,16.0,QHD OLED,Intel i5,8GB,1TB SSD,Integrated,Windows,Ventura,1.4,72651,4.9,Gaming
+Apple,ThinkPad,ThinkPad-9122,Business,16.0,FHD TN,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,11,1.2,70648,4.8,Business
+Dell,MacBook,MacBook-5167,Business,16.0,QHD OLED,Intel i7,16GB,1TB SSD,Integrated,macOS,Ubuntu 22.04,1.8,83391,4.4,Gaming
+Dell,Pavilion,Pavilion-1284,Developer,14.0,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.4,131111,4.8,Student
+HP,Pavilion,Pavilion-5284,Gaming,16.0,QHD OLED,Ryzen 5,16GB,512GB SSD,Integrated,macOS,11,1.4,67624,4.7,Student
+Apple,ROG,ROG-9825,Business,13.3,FHD TN,Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,98467,4.4,Gaming
+Lenovo,Inspiron,Inspiron-8885,Developer,15.6,FHD TN,Intel i5,32GB,256GB SSD,Integrated,Linux,11,2.0,74142,4.5,Business
+Lenovo,ThinkPad,ThinkPad-7949,Developer,13.3,Retina,Ryzen 7,16GB,1TB SSD,Integrated,Linux,Ventura,1.6,69721,4.5,Gaming
+Dell,Inspiron,Inspiron-6714,Office,14.0,FHD TN,Intel i5,16GB,256GB SSD,NVIDIA RTX 4060,Windows,11,1.8,64384,3.8,Student
+Apple,ThinkPad,ThinkPad-4889,Office,15.6,QHD OLED,Intel i5,8GB,512GB SSD,NVIDIA RTX 3050,macOS,11,1.8,123237,4.7,Student
+HP,MacBook,MacBook-9738,Gaming,16.0,Retina,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.8,90090,4.6,Office
+Apple,Pavilion,Pavilion-2097,Gaming,13.3,Retina,Intel i5,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.2,61569,3.8,Student
+Apple,Inspiron,Inspiron-9072,Student,15.6,FHD IPS,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 3050,Windows,12,1.2,54031,3.8,Gaming
+Apple,ROG,ROG-3910,Gaming,15.6,Retina,Apple M2,8GB,256GB SSD,Integrated,macOS,Ubuntu 22.04,2.0,142010,4.9,Student
+Apple,ThinkPad,ThinkPad-8778,Business,15.6,FHD TN,Ryzen 7,8GB,256GB SSD,Integrated,Windows,12,1.2,66140,4.4,Business
+HP,MacBook,MacBook-2133,Student,15.6,FHD TN,Apple M2,8GB,256GB SSD,Integrated,macOS,Ventura,1.4,90678,4.9,Developer
+Asus,ROG,ROG-6623,Office,16.0,QHD OLED,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.4,146019,4.1,Business
+Dell,Inspiron,Inspiron-3903,Student,16.0,FHD IPS,Intel i7,8GB,256GB SSD,Integrated,Windows,Ventura,1.2,121700,4.7,Office
+Asus,ROG,ROG-2449,Gaming,16.0,Retina,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,2.0,72564,3.6,Gaming
+Apple,ThinkPad,ThinkPad-8235,Developer,14.0,QHD OLED,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,2.0,106546,4.7,Office
+HP,MacBook,MacBook-7430,Gaming,14.0,QHD OLED,Intel i7,16GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.2,144343,4.8,Office
+HP,MacBook,MacBook-5723,Gaming,14.0,FHD TN,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Ventura,1.6,104868,3.6,Business
+Lenovo,ROG,ROG-7858,Gaming,14.0,FHD TN,Ryzen 5,8GB,1TB SSD,Integrated,Windows,Ventura,2.0,100440,4.8,Developer
+Lenovo,ThinkPad,ThinkPad-2616,Business,14.0,FHD TN,Apple M2,32GB,256GB SSD,Integrated,Linux,11,1.4,117226,3.9,Student
+Apple,MacBook,MacBook-1922,Business,15.6,Retina,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Linux,12,1.6,122567,3.6,Student
+Dell,ROG,ROG-8282,Gaming,15.6,FHD TN,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.6,93747,4.7,Office
+Apple,MacBook,MacBook-6158,Gaming,15.6,FHD TN,Intel i5,8GB,512GB SSD,Integrated,Linux,Ubuntu 22.04,2.0,114033,4.0,Office
+Lenovo,MacBook,MacBook-3889,Student,14.0,FHD TN,Intel i5,32GB,256GB SSD,Integrated,macOS,Ventura,1.4,117286,3.8,Developer
+Asus,Pavilion,Pavilion-8565,Developer,14.0,Retina,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 3050,Linux,12,1.8,113477,3.7,Office
+Dell,Pavilion,Pavilion-1822,Office,13.3,FHD IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,12,1.2,99216,4.3,Student
+Apple,MacBook,MacBook-3283,Gaming,15.6,Retina,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.6,76782,4.5,Gaming
+Dell,ThinkPad,ThinkPad-1409,Business,16.0,FHD IPS,Ryzen 5,16GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.2,61527,4.8,Gaming
+Lenovo,Inspiron,Inspiron-3706,Business,14.0,FHD IPS,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.2,123248,3.8,Office
+Dell,ROG,ROG-1965,Student,15.6,FHD TN,Ryzen 7,8GB,256GB SSD,Integrated,Windows,12,1.6,92862,3.8,Business
+Dell,MacBook,MacBook-1900,Student,13.3,Retina,Intel i5,8GB,512GB SSD,Integrated,Windows,Ubuntu 22.04,1.4,64675,4.4,Student
+HP,ROG,ROG-3424,Business,14.0,FHD TN,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,macOS,12,1.2,115796,4.7,Gaming
+Lenovo,Pavilion,Pavilion-5111,Gaming,14.0,Retina,Ryzen 7,32GB,1TB SSD,Integrated,macOS,12,2.0,139773,4.0,Office
+Dell,ThinkPad,ThinkPad-5100,Student,13.3,FHD IPS,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 4060,Linux,11,1.8,147629,3.5,Business
+Dell,ThinkPad,ThinkPad-5496,Gaming,15.6,FHD TN,Ryzen 5,32GB,256GB SSD,Integrated,Windows,Ventura,1.4,91384,3.7,Business
+Apple,ThinkPad,ThinkPad-3652,Student,13.3,FHD IPS,Ryzen 7,16GB,512GB SSD,Integrated,Linux,11,2.0,146199,5.0,Business
+Dell,MacBook,MacBook-5816,Office,15.6,Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.8,100032,4.1,Office
+Asus,Pavilion,Pavilion-2502,Office,14.0,FHD TN,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.4,53585,4.2,Office
+Lenovo,ROG,ROG-3009,Gaming,13.3,FHD TN,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.8,148120,4.6,Business
+Apple,Pavilion,Pavilion-1496,Gaming,16.0,FHD IPS,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,Linux,12,1.2,120278,3.7,Office
+Lenovo,ThinkPad,ThinkPad-2955,Student,14.0,QHD OLED,Apple M2,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.4,100950,3.6,Office
+HP,Pavilion,Pavilion-9955,Developer,16.0,FHD IPS,Apple M2,16GB,1TB SSD,NVIDIA RTX 4060,Windows,11,2.0,146493,4.6,Developer
+HP,ROG,ROG-3061,Gaming,16.0,FHD TN,Ryzen 5,32GB,1TB SSD,Integrated,macOS,11,2.0,85859,4.2,Gaming
+Lenovo,ThinkPad,ThinkPad-3749,Developer,14.0,QHD OLED,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Windows,11,2.0,144816,4.6,Student
+Dell,Inspiron,Inspiron-3328,Office,15.6,QHD OLED,Intel i7,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.4,86927,4.3,Gaming
+Apple,ROG,ROG-5779,Student,14.0,FHD IPS,Apple M2,32GB,512GB SSD,Integrated,Linux,Ubuntu 22.04,1.8,130866,4.6,Developer
+Lenovo,MacBook,MacBook-7405,Student,16.0,QHD OLED,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Linux,12,1.2,140318,4.0,Student
+Dell,Pavilion,Pavilion-9679,Student,13.3,FHD TN,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,133280,4.7,Office
+Dell,Pavilion,Pavilion-1466,Office,15.6,Retina,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.2,129775,4.4,Developer
+Asus,ThinkPad,ThinkPad-1735,Business,15.6,Retina,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,Linux,12,1.8,70484,4.7,Business
+Lenovo,Inspiron,Inspiron-1389,Business,15.6,Retina,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.6,104002,4.1,Gaming
+Lenovo,ROG,ROG-5796,Developer,15.6,FHD IPS,Ryzen 5,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.4,71649,4.6,Developer
+Apple,MacBook,MacBook-5322,Gaming,16.0,QHD OLED,Intel i5,16GB,256GB SSD,Integrated,Linux,12,2.0,83337,4.2,Office
+Lenovo,Pavilion,Pavilion-8369,Developer,13.3,FHD TN,Intel i5,16GB,512GB SSD,Integrated,macOS,Ventura,1.4,99518,3.7,Developer
+Dell,ROG,ROG-4793,Gaming,13.3,Retina,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.2,92675,4.1,Student
+Dell,MacBook,MacBook-8170,Gaming,14.0,Retina,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 4060,Linux,11,1.4,67223,3.6,Developer
+Apple,MacBook,MacBook-3697,Office,14.0,FHD IPS,Intel i5,16GB,512GB SSD,Integrated,Windows,Ventura,1.6,98921,3.7,Student
+Lenovo,Pavilion,Pavilion-5163,Business,13.3,QHD OLED,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,2.0,95722,4.3,Office
+Lenovo,MacBook,MacBook-5764,Developer,14.0,FHD IPS,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.2,117652,4.2,Office
+Lenovo,Pavilion,Pavilion-1435,Gaming,16.0,QHD OLED,Apple M2,32GB,512GB SSD,Integrated,Linux,Ventura,1.2,132816,4.9,Business
+Dell,Inspiron,Inspiron-1520,Business,16.0,FHD TN,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.4,129346,3.9,Business
+Apple,ThinkPad,ThinkPad-3366,Student,13.3,FHD IPS,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.8,120619,3.7,Student
+Lenovo,ROG,ROG-9406,Student,14.0,FHD TN,Intel i5,8GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,2.0,103245,4.3,Gaming
+Lenovo,Inspiron,Inspiron-9654,Student,13.3,FHD IPS,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,11,1.8,66807,4.9,Office
+Lenovo,ROG,ROG-5780,Student,16.0,QHD OLED,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,71300,3.6,Gaming
+HP,ThinkPad,ThinkPad-9660,Developer,15.6,QHD OLED,Intel i5,32GB,1TB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.4,130174,3.6,Gaming
+Dell,Inspiron,Inspiron-8690,Office,14.0,Retina,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.6,50092,4.5,Office
+Asus,Pavilion,Pavilion-3838,Office,16.0,FHD IPS,Apple M2,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Ventura,1.8,60310,4.1,Student
+Asus,Inspiron,Inspiron-7783,Gaming,13.3,QHD OLED,Apple M2,32GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.8,77107,4.6,Business
+Lenovo,Inspiron,Inspiron-2692,Student,14.0,FHD TN,Intel i7,16GB,512GB SSD,Integrated,Linux,Ventura,1.4,77145,4.6,Office
+Dell,ROG,ROG-7587,Student,16.0,FHD IPS,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 3050,Linux,12,1.6,58564,4.4,Office
+Lenovo,ThinkPad,ThinkPad-6982,Gaming,16.0,Retina,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.4,58706,4.3,Office
+Asus,Inspiron,Inspiron-7028,Office,15.6,QHD OLED,Intel i5,32GB,512GB SSD,Integrated,Windows,12,1.8,85620,3.9,Student
+Asus,MacBook,MacBook-4603,Business,13.3,QHD OLED,Ryzen 7,32GB,512GB SSD,Integrated,Linux,12,1.2,78774,3.8,Office
+HP,ThinkPad,ThinkPad-4566,Gaming,14.0,Retina,Intel i7,8GB,512GB SSD,Integrated,Windows,12,1.2,147064,4.1,Gaming
+Lenovo,MacBook,MacBook-3828,Office,13.3,Retina,Ryzen 7,8GB,256GB SSD,Integrated,macOS,12,2.0,149921,3.6,Developer
+Dell,ThinkPad,ThinkPad-2787,Business,14.0,FHD TN,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,80988,4.3,Business
+Lenovo,ThinkPad,ThinkPad-7700,Gaming,16.0,FHD TN,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.4,115767,3.8,Business
+HP,Inspiron,Inspiron-4102,Business,16.0,FHD IPS,Apple M2,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.6,71834,4.3,Student
+Apple,Pavilion,Pavilion-8248,Gaming,13.3,QHD OLED,Ryzen 7,16GB,512GB SSD,Integrated,Windows,12,1.6,71839,4.2,Gaming
+Apple,Pavilion,Pavilion-6913,Developer,16.0,FHD IPS,Ryzen 7,8GB,256GB SSD,Integrated,macOS,Ubuntu 22.04,1.4,61653,4.8,Gaming
+Lenovo,ThinkPad,ThinkPad-1408,Business,16.0,FHD TN,Intel i7,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.6,148223,3.7,Developer
+Apple,ThinkPad,ThinkPad-2810,Office,15.6,Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.6,77495,4.8,Gaming
+HP,Pavilion,Pavilion-1134,Student,15.6,Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,12,2.0,140403,4.7,Developer
+Apple,ROG,ROG-2524,Student,13.3,QHD OLED,Ryzen 7,16GB,256GB SSD,Integrated,Windows,11,1.2,58188,4.6,Developer
+Asus,Inspiron,Inspiron-4353,Business,13.3,QHD OLED,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.6,52599,4.0,Business
+HP,ThinkPad,ThinkPad-9431,Developer,14.0,QHD OLED,Intel i7,16GB,256GB SSD,Integrated,macOS,Ubuntu 22.04,1.2,105964,3.7,Student
+HP,Inspiron,Inspiron-3268,Office,15.6,Retina,Intel i7,16GB,512GB SSD,Integrated,macOS,Ubuntu 22.04,1.8,84953,3.7,Business
+Apple,Inspiron,Inspiron-6189,Developer,14.0,QHD OLED,Ryzen 5,16GB,1TB SSD,Integrated,macOS,Ubuntu 22.04,1.6,98643,4.9,Student
+HP,MacBook,MacBook-4224,Gaming,14.0,Retina,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,2.0,121987,4.8,Office
+Dell,Inspiron,Inspiron-5237,Gaming,16.0,QHD OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,121191,4.6,Student
+Lenovo,ROG,ROG-1904,Gaming,14.0,QHD OLED,Apple M2,16GB,512GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.8,50738,4.9,Student
+Dell,ThinkPad,ThinkPad-5659,Office,15.6,QHD OLED,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 4060,macOS,11,2.0,108226,4.5,Student
+Lenovo,Inspiron,Inspiron-9194,Gaming,14.0,Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 4060,Linux,12,2.0,88405,3.8,Office
+HP,Inspiron,Inspiron-4648,Developer,15.6,FHD IPS,Apple M2,8GB,512GB SSD,Integrated,Windows,Ubuntu 22.04,2.0,117436,4.1,Office
+Dell,ROG,ROG-7117,Student,16.0,FHD IPS,Ryzen 7,32GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.2,72003,4.6,Gaming
+Apple,ROG,ROG-1037,Student,14.0,Retina,Ryzen 5,8GB,512GB SSD,Integrated,Linux,Ubuntu 22.04,1.2,65015,3.8,Gaming
+Dell,ROG,ROG-7568,Student,13.3,Retina,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.6,146565,3.5,Gaming
+Apple,ROG,ROG-1681,Gaming,16.0,FHD TN,Apple M2,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.8,99783,3.8,Office
+Apple,MacBook,MacBook-6122,Business,13.3,QHD OLED,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,119862,4.7,Office
+Dell,ROG,ROG-7483,Business,13.3,FHD TN,Apple M2,16GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.6,101195,4.7,Gaming
+Lenovo,ThinkPad,ThinkPad-2320,Gaming,14.0,FHD IPS,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,52303,4.2,Developer
+Apple,MacBook,MacBook-2664,Developer,16.0,QHD OLED,Ryzen 5,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.8,96995,3.6,Office
+Apple,Pavilion,Pavilion-8686,Gaming,16.0,Retina,Apple M2,32GB,256GB SSD,Integrated,macOS,11,2.0,112949,3.7,Developer
+HP,ThinkPad,ThinkPad-2771,Business,14.0,FHD TN,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.2,115878,3.7,Student
+Dell,ROG,ROG-7261,Business,13.3,Retina,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.6,114018,4.5,Office
+HP,Pavilion,Pavilion-2349,Student,15.6,FHD TN,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.2,129394,3.5,Developer
+Lenovo,MacBook,MacBook-7408,Gaming,16.0,QHD OLED,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,macOS,11,1.8,99583,4.7,Gaming
+Lenovo,Pavilion,Pavilion-9793,Business,15.6,Retina,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,11,1.8,137165,3.8,Office
+Asus,Pavilion,Pavilion-5604,Student,14.0,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,macOS,12,1.2,111575,3.9,Gaming
+Dell,ThinkPad,ThinkPad-9902,Developer,16.0,QHD OLED,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.6,121312,4.0,Developer
+HP,ThinkPad,ThinkPad-6941,Student,14.0,QHD OLED,Ryzen 7,16GB,1TB SSD,Integrated,Windows,12,1.6,77189,4.1,Developer
+Apple,ROG,ROG-3707,Office,14.0,FHD IPS,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,11,1.8,57304,3.8,Student
+HP,ThinkPad,ThinkPad-9403,Business,14.0,FHD TN,Ryzen 5,8GB,256GB SSD,Integrated,Windows,11,2.0,82087,4.7,Student
+Apple,Pavilion,Pavilion-5251,Developer,13.3,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.4,126797,4.0,Business
+Apple,Inspiron,Inspiron-3161,Gaming,14.0,Retina,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 3050,Linux,Ventura,1.4,129532,5.0,Business
+HP,MacBook,MacBook-1583,Student,14.0,FHD IPS,Intel i5,32GB,1TB SSD,Integrated,Windows,Ubuntu 22.04,1.4,58073,4.4,Developer
+Lenovo,ThinkPad,ThinkPad-7796,Business,15.6,QHD OLED,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.2,128289,3.9,Gaming
+HP,Pavilion,Pavilion-1515,Developer,13.3,FHD IPS,Intel i5,32GB,512GB SSD,Integrated,macOS,Ubuntu 22.04,2.0,147649,4.0,Office
+Apple,ROG,ROG-2584,Student,16.0,Retina,Ryzen 7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.2,75711,3.8,Developer
+Lenovo,Inspiron,Inspiron-7180,Student,13.3,FHD IPS,Ryzen 5,32GB,256GB SSD,Integrated,Windows,12,1.2,66771,3.7,Gaming
+HP,ThinkPad,ThinkPad-4623,Business,15.6,Retina,Ryzen 5,16GB,256GB SSD,Integrated,macOS,12,1.4,144760,4.6,Student
+Lenovo,Inspiron,Inspiron-2249,Gaming,16.0,Retina,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.2,87665,4.5,Office
+Lenovo,Pavilion,Pavilion-2161,Developer,16.0,FHD TN,Apple M2,32GB,256GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.2,62412,4.9,Student
+Lenovo,ROG,ROG-3791,Office,15.6,Retina,Intel i5,16GB,256GB SSD,Integrated,Windows,11,1.6,79076,4.7,Gaming
+Lenovo,MacBook,MacBook-6603,Office,15.6,QHD OLED,Apple M2,32GB,1TB SSD,Integrated,Linux,12,2.0,132559,4.2,Developer
+Lenovo,ROG,ROG-8113,Developer,16.0,FHD IPS,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,12,1.6,82668,4.9,Business
+Asus,Pavilion,Pavilion-6140,Office,16.0,FHD IPS,Apple M2,8GB,1TB SSD,NVIDIA RTX 4060,Linux,11,1.8,118327,3.6,Office
+HP,Pavilion,Pavilion-6786,Business,15.6,FHD TN,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.6,64697,4.3,Student
+Lenovo,Inspiron,Inspiron-5774,Business,14.0,Retina,Intel i5,32GB,1TB SSD,Integrated,Linux,Ubuntu 22.04,1.4,125959,3.9,Office
+Apple,ThinkPad,ThinkPad-1413,Office,13.3,QHD OLED,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.6,91085,4.1,Business
+Dell,ROG,ROG-1206,Developer,15.6,FHD IPS,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Windows,12,2.0,69603,3.8,Developer
+Lenovo,Inspiron,Inspiron-1475,Business,13.3,Retina,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,macOS,11,1.6,58887,4.7,Office
+Apple,Inspiron,Inspiron-3645,Student,13.3,FHD TN,Intel i5,16GB,256GB SSD,NVIDIA RTX 4060,Windows,11,1.6,145414,4.7,Office
+Asus,ROG,ROG-1978,Developer,14.0,FHD IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Windows,12,1.6,87593,3.8,Developer
+HP,Pavilion,Pavilion-5171,Student,15.6,Retina,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,2.0,126389,3.7,Business
+Dell,ThinkPad,ThinkPad-8054,Developer,16.0,FHD TN,Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.2,85070,4.5,Student
+Apple,ROG,ROG-3261,Developer,15.6,QHD OLED,Apple M2,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.6,146157,4.2,Developer
+HP,Pavilion,Pavilion-1311,Office,15.6,Retina,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ventura,2.0,118458,4.3,Business
+Apple,ThinkPad,ThinkPad-2481,Office,15.6,FHD TN,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.4,66752,4.9,Gaming
+Asus,Pavilion,Pavilion-9150,Office,15.6,Retina,Apple M2,16GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.4,67087,4.4,Business
+Asus,ThinkPad,ThinkPad-9310,Gaming,13.3,Retina,Intel i5,32GB,256GB SSD,Integrated,Linux,11,1.2,133494,3.6,Office
+Lenovo,MacBook,MacBook-3254,Business,16.0,Retina,Ryzen 7,32GB,256GB SSD,Integrated,macOS,12,1.4,57290,4.5,Business
+Asus,Pavilion,Pavilion-7190,Business,14.0,FHD TN,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.4,54114,4.2,Gaming
+Dell,Pavilion,Pavilion-1776,Office,16.0,FHD TN,Ryzen 5,32GB,1TB SSD,Integrated,macOS,Ubuntu 22.04,1.2,142148,4.5,Developer
+Lenovo,ROG,ROG-1867,Office,14.0,QHD OLED,Intel i5,32GB,512GB SSD,Integrated,macOS,Ubuntu 22.04,1.2,89960,3.6,Gaming
+Asus,Pavilion,Pavilion-7773,Office,14.0,FHD TN,Intel i5,8GB,1TB SSD,Integrated,Windows,Ventura,1.6,137367,4.2,Gaming
+Apple,Inspiron,Inspiron-7476,Student,13.3,FHD TN,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,79146,3.8,Developer
+Lenovo,ThinkPad,ThinkPad-2645,Office,15.6,FHD IPS,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.2,83583,4.0,Gaming
+Dell,ROG,ROG-8574,Student,13.3,QHD OLED,Intel i5,8GB,1TB SSD,NVIDIA RTX 4060,Linux,11,2.0,112125,4.5,Student
+Asus,ROG,ROG-9559,Business,16.0,Retina,Ryzen 5,16GB,1TB SSD,Integrated,macOS,Ventura,1.4,94813,3.5,Developer
+Asus,ThinkPad,ThinkPad-1069,Business,13.3,FHD TN,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.4,142425,4.0,Student
+Dell,Pavilion,Pavilion-8728,Business,14.0,Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,11,1.4,79114,5.0,Business
+Apple,ROG,ROG-6532,Business,15.6,FHD IPS,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.2,129992,3.5,Business
+Lenovo,Inspiron,Inspiron-1561,Student,16.0,Retina,Ryzen 7,8GB,256GB SSD,Integrated,Linux,Ubuntu 22.04,1.8,77575,4.3,Office
+Apple,Inspiron,Inspiron-3960,Gaming,13.3,QHD OLED,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.8,119834,4.0,Student
+Dell,MacBook,MacBook-5331,Developer,13.3,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.8,122746,4.6,Developer
+Apple,ROG,ROG-4787,Office,16.0,FHD IPS,Apple M2,16GB,256GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.2,109215,3.9,Developer
+HP,ThinkPad,ThinkPad-4103,Developer,14.0,FHD IPS,Apple M2,32GB,1TB SSD,NVIDIA RTX 3050,macOS,11,2.0,121090,4.9,Gaming
+HP,Inspiron,Inspiron-3819,Office,15.6,FHD IPS,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Ventura,1.4,98777,4.9,Developer
+Asus,Inspiron,Inspiron-6283,Business,14.0,FHD IPS,Intel i7,8GB,1TB SSD,Integrated,macOS,12,1.6,102416,4.1,Office
+Lenovo,Pavilion,Pavilion-7215,Business,14.0,Retina,Apple M2,32GB,512GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.2,105412,4.8,Business
+Apple,ROG,ROG-5075,Business,14.0,Retina,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.6,113543,4.3,Business
+Lenovo,ROG,ROG-6107,Business,13.3,QHD OLED,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,macOS,12,1.4,74061,4.3,Student
+Lenovo,ROG,ROG-3674,Student,16.0,Retina,Intel i5,8GB,512GB SSD,NVIDIA RTX 4060,Linux,11,1.6,138766,4.7,Developer
+Asus,ROG,ROG-3457,Gaming,16.0,Retina,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,2.0,71239,4.0,Developer
+Lenovo,Pavilion,Pavilion-2185,Office,16.0,FHD IPS,Ryzen 5,32GB,256GB SSD,Integrated,Linux,Ventura,1.8,114881,3.7,Office
+Asus,MacBook,MacBook-8196,Gaming,14.0,QHD OLED,Apple M2,8GB,1TB SSD,Integrated,Windows,12,1.8,78494,4.6,Student
+Apple,ThinkPad,ThinkPad-4648,Business,14.0,FHD IPS,Apple M2,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,130008,4.0,Office
+Lenovo,ROG,ROG-2133,Student,13.3,FHD TN,Ryzen 5,8GB,512GB SSD,Integrated,Linux,Ubuntu 22.04,1.4,108132,3.9,Student
+HP,Pavilion,Pavilion-6552,Business,16.0,Retina,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.4,145047,4.5,Gaming
+Lenovo,Pavilion,Pavilion-2440,Gaming,15.6,Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.4,85212,4.7,Office
+HP,Inspiron,Inspiron-8877,Developer,15.6,FHD TN,Intel i5,16GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.2,62492,4.5,Office
+Lenovo,MacBook,MacBook-3079,Student,15.6,Retina,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,2.0,121470,4.2,Developer
+Dell,Pavilion,Pavilion-2219,Student,16.0,Retina,Ryzen 5,16GB,256GB SSD,Integrated,macOS,12,1.4,116156,3.9,Gaming
+Lenovo,ThinkPad,ThinkPad-8182,Student,13.3,FHD TN,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Windows,11,2.0,142331,3.8,Office
+HP,MacBook,MacBook-9926,Office,15.6,QHD OLED,Ryzen 7,8GB,1TB SSD,Integrated,macOS,Ventura,2.0,73196,3.9,Student
+Apple,Pavilion,Pavilion-3472,Business,15.6,Retina,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,12,1.8,51897,5.0,Student
+Dell,Inspiron,Inspiron-1986,Office,16.0,FHD TN,Apple M2,32GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.2,93876,4.1,Developer
+Asus,Inspiron,Inspiron-7264,Developer,15.6,FHD TN,Apple M2,32GB,512GB SSD,NVIDIA RTX 4060,Windows,11,2.0,65139,4.7,Office
+HP,Pavilion,Pavilion-8426,Student,13.3,FHD TN,Apple M2,16GB,512GB SSD,NVIDIA RTX 3050,macOS,12,2.0,144003,3.9,Developer
+Asus,Inspiron,Inspiron-6414,Student,16.0,FHD TN,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,Ventura,1.4,55556,4.4,Business
+Lenovo,MacBook,MacBook-4287,Developer,16.0,Retina,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,Windows,12,2.0,145041,4.9,Gaming
+Asus,MacBook,MacBook-9607,Student,15.6,FHD IPS,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.2,115410,4.1,Developer
+Asus,ThinkPad,ThinkPad-3152,Student,14.0,QHD OLED,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.4,90313,4.9,Office
+Asus,ROG,ROG-4943,Student,13.3,QHD OLED,Ryzen 5,32GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.4,136381,4.3,Student
+Lenovo,Pavilion,Pavilion-1454,Student,15.6,QHD OLED,Intel i5,16GB,512GB SSD,Integrated,Linux,11,1.4,55757,3.9,Student
+Asus,MacBook,MacBook-5614,Business,15.6,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.6,134951,4.6,Business
+Asus,ThinkPad,ThinkPad-2641,Office,14.0,Retina,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.2,66430,3.7,Developer
+Asus,MacBook,MacBook-1343,Office,13.3,Retina,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,macOS,12,1.8,129169,4.4,Developer
+Lenovo,ThinkPad,ThinkPad-9786,Gaming,13.3,Retina,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.6,116929,4.3,Gaming
+Lenovo,Inspiron,Inspiron-3712,Gaming,13.3,Retina,Intel i7,32GB,1TB SSD,Integrated,Linux,11,1.4,83462,5.0,Student
+Apple,MacBook,MacBook-7806,Developer,16.0,FHD TN,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,macOS,11,1.2,130653,4.1,Business
+Lenovo,MacBook,MacBook-8219,Business,14.0,Retina,Ryzen 5,32GB,256GB SSD,Integrated,macOS,12,1.2,96671,4.9,Student
+Asus,Inspiron,Inspiron-6036,Office,13.3,QHD OLED,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,12,1.8,108429,3.7,Office
+HP,Inspiron,Inspiron-7549,Office,15.6,FHD IPS,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,11,2.0,50141,3.6,Office
+HP,MacBook,MacBook-8807,Student,14.0,QHD OLED,Intel i7,16GB,1TB SSD,NVIDIA RTX 4060,macOS,12,2.0,146170,4.0,Developer
+Dell,Pavilion,Pavilion-2029,Office,15.6,Retina,Ryzen 5,8GB,256GB SSD,Integrated,macOS,11,1.4,79621,4.2,Student
+Lenovo,MacBook,MacBook-4944,Developer,14.0,FHD TN,Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.8,99843,3.7,Business
+Apple,MacBook,MacBook-3005,Student,14.0,FHD TN,Intel i5,8GB,1TB SSD,Integrated,macOS,11,1.2,101143,3.6,Developer
+Apple,Inspiron,Inspiron-7119,Gaming,14.0,FHD TN,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.4,129283,4.7,Business
+Asus,Pavilion,Pavilion-8606,Business,14.0,QHD OLED,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.4,118968,4.3,Gaming
+Asus,ROG,ROG-5527,Gaming,16.0,Retina,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.8,129035,4.9,Gaming
+Apple,Pavilion,Pavilion-8648,Developer,13.3,FHD IPS,Ryzen 5,32GB,1TB SSD,Integrated,Windows,12,1.2,61460,3.9,Developer
+HP,Inspiron,Inspiron-3787,Developer,13.3,FHD TN,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Linux,11,1.8,94561,3.8,Business
+Apple,Inspiron,Inspiron-4495,Student,14.0,QHD OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,12,1.2,113159,3.6,Gaming
+Lenovo,Inspiron,Inspiron-6754,Student,15.6,Retina,Apple M2,32GB,256GB SSD,Integrated,Windows,12,1.2,106035,4.8,Gaming
+Asus,ROG,ROG-5718,Office,16.0,FHD IPS,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 3050,macOS,12,2.0,80136,4.2,Student
+Apple,Inspiron,Inspiron-2741,Business,13.3,FHD TN,Apple M2,16GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.4,64747,4.5,Office
+Lenovo,MacBook,MacBook-1924,Student,16.0,Retina,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 3050,macOS,Ventura,1.6,116326,4.0,Student
+Dell,MacBook,MacBook-8868,Student,15.6,FHD IPS,Intel i7,32GB,1TB SSD,NVIDIA RTX 3050,Linux,12,1.4,64056,4.7,Student
+HP,MacBook,MacBook-3980,Gaming,16.0,FHD TN,Apple M2,32GB,256GB SSD,NVIDIA RTX 4060,macOS,11,1.8,84458,4.2,Office
+Dell,ThinkPad,ThinkPad-9987,Business,15.6,FHD TN,Apple M2,16GB,256GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,2.0,87389,4.0,Student
+Lenovo,ROG,ROG-8580,Student,16.0,FHD IPS,Intel i7,16GB,1TB SSD,Integrated,Linux,11,1.6,137436,4.3,Business
+Dell,Pavilion,Pavilion-9517,Student,14.0,FHD TN,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 3050,macOS,12,1.6,88204,4.5,Office
+Asus,ROG,ROG-8706,Student,15.6,Retina,Ryzen 7,16GB,256GB SSD,Integrated,Linux,Ubuntu 22.04,2.0,134458,3.9,Gaming
+Asus,ThinkPad,ThinkPad-2339,Student,13.3,FHD IPS,Intel i5,32GB,512GB SSD,Integrated,Linux,Ventura,1.6,122255,3.7,Office
+Asus,MacBook,MacBook-6554,Gaming,14.0,Retina,Ryzen 7,32GB,512GB SSD,Integrated,macOS,Ubuntu 22.04,2.0,127274,4.4,Office
+Dell,Pavilion,Pavilion-5236,Gaming,13.3,QHD OLED,Apple M2,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Ventura,2.0,75288,4.3,Developer
+Apple,ROG,ROG-9410,Office,14.0,FHD TN,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.4,133570,3.6,Office
+Apple,ThinkPad,ThinkPad-1801,Business,14.0,FHD TN,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,145894,5.0,Office
+Dell,Inspiron,Inspiron-9419,Gaming,13.3,QHD OLED,Intel i5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.6,133257,4.1,Developer
+Lenovo,ThinkPad,ThinkPad-2698,Gaming,16.0,FHD IPS,Apple M2,16GB,1TB SSD,NVIDIA RTX 4060,macOS,12,1.8,64402,4.6,Gaming
+Dell,MacBook,MacBook-8660,Developer,14.0,QHD OLED,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.2,98859,4.8,Developer
+Asus,Pavilion,Pavilion-9182,Developer,16.0,FHD IPS,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 3050,Windows,12,1.4,130703,4.1,Gaming
+Apple,Inspiron,Inspiron-7087,Business,13.3,FHD TN,Ryzen 7,16GB,1TB SSD,Integrated,Windows,11,1.6,104414,4.9,Developer
+HP,MacBook,MacBook-6771,Gaming,15.6,FHD IPS,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.8,51850,3.8,Developer
+Dell,ROG,ROG-3615,Gaming,14.0,FHD TN,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,2.0,132786,3.6,Business
+Asus,Pavilion,Pavilion-2190,Student,16.0,FHD IPS,Intel i7,8GB,256GB SSD,NVIDIA RTX 3050,Windows,12,1.8,93926,4.2,Student
+Dell,ThinkPad,ThinkPad-6929,Business,14.0,FHD IPS,Intel i7,32GB,256GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.6,118825,5.0,Office
+Dell,ThinkPad,ThinkPad-8966,Gaming,13.3,QHD OLED,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,macOS,11,1.6,94236,4.3,Student
+Dell,ThinkPad,ThinkPad-7186,Office,16.0,QHD OLED,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,11,2.0,79258,3.5,Business
+Lenovo,Inspiron,Inspiron-4635,Developer,16.0,FHD TN,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,67914,4.8,Student
+Asus,MacBook,MacBook-8352,Office,15.6,QHD OLED,Apple M2,8GB,512GB SSD,Integrated,Linux,11,1.4,96982,4.9,Business
+Dell,ThinkPad,ThinkPad-3642,Office,15.6,FHD IPS,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,11,2.0,60455,4.6,Business
+Lenovo,Pavilion,Pavilion-1723,Developer,14.0,Retina,Apple M2,32GB,256GB SSD,Integrated,Linux,Ubuntu 22.04,2.0,116853,4.5,Student
+Apple,MacBook,MacBook-1277,Business,15.6,QHD OLED,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,2.0,97996,3.9,Student
+Apple,ROG,ROG-5299,Business,16.0,QHD OLED,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,101023,4.1,Student
+Lenovo,ThinkPad,ThinkPad-4486,Gaming,13.3,QHD OLED,Ryzen 5,16GB,512GB SSD,Integrated,macOS,Ventura,1.8,125118,3.7,Student
+Dell,MacBook,MacBook-1413,Student,15.6,QHD OLED,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,145551,3.5,Gaming
+Dell,ThinkPad,ThinkPad-1310,Gaming,14.0,QHD OLED,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,2.0,119153,4.9,Office
+Apple,ROG,ROG-9329,Developer,16.0,QHD OLED,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,macOS,12,1.4,148001,3.5,Gaming
+Lenovo,ROG,ROG-4054,Office,15.6,FHD IPS,Apple M2,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.8,89053,5.0,Student
+Asus,MacBook,MacBook-7587,Business,15.6,Retina,Ryzen 5,16GB,256GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.2,102930,4.8,Office
+Lenovo,MacBook,MacBook-2591,Gaming,13.3,QHD OLED,Ryzen 7,8GB,512GB SSD,Integrated,macOS,Ventura,2.0,143562,3.7,Student
+Lenovo,ROG,ROG-3304,Developer,16.0,QHD OLED,Intel i7,16GB,512GB SSD,Integrated,Linux,Ubuntu 22.04,2.0,110378,4.4,Gaming
+Asus,Pavilion,Pavilion-7423,Gaming,15.6,FHD IPS,Apple M2,16GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.6,137742,4.9,Gaming
+Apple,ROG,ROG-6138,Business,15.6,QHD OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,104807,4.2,Office
+Lenovo,MacBook,MacBook-4872,Developer,16.0,FHD TN,Intel i7,8GB,256GB SSD,Integrated,Windows,12,1.4,88460,3.9,Office
+HP,Inspiron,Inspiron-3045,Gaming,13.3,QHD OLED,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.6,108583,5.0,Student
+Lenovo,Pavilion,Pavilion-9782,Developer,15.6,FHD TN,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,50623,4.2,Office
+Asus,ROG,ROG-6435,Business,14.0,FHD IPS,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,11,1.8,149428,4.7,Business
+Asus,MacBook,MacBook-7388,Student,14.0,FHD IPS,Apple M2,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.6,115386,4.5,Student
+HP,Inspiron,Inspiron-9541,Developer,16.0,FHD TN,Apple M2,16GB,1TB SSD,NVIDIA RTX 3050,Windows,12,1.4,140891,4.0,Office
+Apple,Inspiron,Inspiron-6510,Business,13.3,Retina,Intel i7,32GB,1TB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,2.0,94876,4.5,Office
+HP,ThinkPad,ThinkPad-3685,Business,14.0,Retina,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,12,2.0,94814,3.7,Business
+Lenovo,MacBook,MacBook-3883,Student,13.3,FHD IPS,Apple M2,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Ventura,1.6,52793,4.8,Business
+Asus,MacBook,MacBook-8408,Gaming,13.3,QHD OLED,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.6,102970,4.6,Developer
+Asus,MacBook,MacBook-8036,Developer,13.3,FHD IPS,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,11,1.6,105227,3.5,Business
+Apple,MacBook,MacBook-5087,Gaming,16.0,QHD OLED,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,2.0,51045,3.6,Student
+Apple,Pavilion,Pavilion-4393,Business,14.0,Retina,Ryzen 7,32GB,256GB SSD,Integrated,macOS,12,1.8,116326,4.2,Office
+Apple,ThinkPad,ThinkPad-8613,Gaming,15.6,Retina,Intel i7,8GB,1TB SSD,Integrated,macOS,Ubuntu 22.04,1.2,147327,4.2,Office
+Asus,Pavilion,Pavilion-1767,Office,15.6,Retina,Ryzen 5,32GB,1TB SSD,Integrated,Windows,Ventura,1.6,109001,4.7,Developer
+Lenovo,ROG,ROG-7381,Gaming,14.0,FHD TN,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.4,143156,3.7,Gaming
+HP,ThinkPad,ThinkPad-4436,Office,15.6,FHD IPS,Apple M2,32GB,1TB SSD,NVIDIA RTX 3050,macOS,12,1.8,132382,4.6,Business
+Lenovo,Inspiron,Inspiron-6772,Business,15.6,Retina,Ryzen 5,8GB,1TB SSD,Integrated,Windows,Ubuntu 22.04,2.0,90396,3.8,Student
+HP,ROG,ROG-7222,Gaming,14.0,Retina,Apple M2,8GB,256GB SSD,Integrated,Windows,11,1.4,52236,3.8,Business
+Lenovo,ROG,ROG-6037,Office,15.6,QHD OLED,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,12,2.0,111016,4.8,Business
+Lenovo,Pavilion,Pavilion-8484,Student,15.6,QHD OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,12,1.6,129491,3.6,Gaming
+Lenovo,ThinkPad,ThinkPad-3825,Business,14.0,QHD OLED,Ryzen 5,8GB,256GB SSD,Integrated,Linux,12,2.0,124460,4.9,Student
+Dell,MacBook,MacBook-5195,Business,15.6,QHD OLED,Intel i7,8GB,512GB SSD,Integrated,Linux,12,2.0,98043,4.4,Business
+Lenovo,Inspiron,Inspiron-2032,Office,14.0,QHD OLED,Ryzen 7,8GB,512GB SSD,Integrated,macOS,12,1.6,143258,4.1,Student
+Lenovo,ThinkPad,ThinkPad-1541,Office,14.0,FHD TN,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.6,91819,4.6,Developer
+Dell,ThinkPad,ThinkPad-1074,Office,16.0,QHD OLED,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,Ventura,2.0,73211,4.8,Office
+Dell,ThinkPad,ThinkPad-5255,Developer,14.0,FHD IPS,Ryzen 7,16GB,512GB SSD,NVIDIA RTX 3050,macOS,11,1.6,95102,4.7,Developer
+Apple,MacBook,MacBook-8835,Developer,16.0,QHD OLED,Ryzen 5,16GB,256GB SSD,Integrated,Linux,Ubuntu 22.04,1.4,106282,3.9,Developer
+Apple,ThinkPad,ThinkPad-7648,Business,14.0,FHD IPS,Intel i5,8GB,1TB SSD,Integrated,Windows,12,1.2,107253,4.3,Office
+Dell,Pavilion,Pavilion-7538,Student,16.0,Retina,Ryzen 7,16GB,256GB SSD,Integrated,Linux,11,1.8,116930,4.0,Office
+Lenovo,Inspiron,Inspiron-3718,Student,15.6,Retina,Ryzen 5,8GB,256GB SSD,Integrated,Windows,11,1.2,76402,4.1,Student
+Dell,ROG,ROG-3402,Office,13.3,FHD TN,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.4,116403,3.8,Student
+HP,Inspiron,Inspiron-8255,Developer,16.0,FHD IPS,Apple M2,32GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,2.0,69029,4.2,Business
+Apple,Inspiron,Inspiron-6246,Office,13.3,QHD OLED,Apple M2,8GB,1TB SSD,NVIDIA RTX 4060,Linux,11,1.8,142984,3.7,Office
+Lenovo,Inspiron,Inspiron-8360,Business,13.3,Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 3050,macOS,11,1.6,51309,4.2,Gaming
+Lenovo,MacBook,MacBook-8910,Office,13.3,FHD TN,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,12,1.2,68205,4.0,Business
+Dell,ROG,ROG-6202,Office,15.6,Retina,Apple M2,8GB,256GB SSD,NVIDIA RTX 4060,Windows,12,1.2,79666,4.7,Student
+Dell,MacBook,MacBook-4947,Student,14.0,FHD TN,Intel i5,16GB,1TB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.2,124895,4.9,Business
+Apple,Pavilion,Pavilion-5549,Office,13.3,Retina,Intel i7,16GB,1TB SSD,NVIDIA RTX 4060,macOS,11,1.8,118123,4.7,Office
+HP,ThinkPad,ThinkPad-1480,Business,13.3,FHD IPS,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.4,76674,4.2,Gaming
+Apple,MacBook,MacBook-1787,Gaming,15.6,Retina,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Windows,12,1.2,109285,3.8,Gaming
+Asus,ThinkPad,ThinkPad-9590,Business,13.3,Retina,Intel i7,16GB,512GB SSD,NVIDIA RTX 3050,Windows,12,1.2,66532,4.2,Gaming
+Dell,Inspiron,Inspiron-5277,Developer,13.3,QHD OLED,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,Linux,11,1.8,76637,4.9,Business
+Dell,Pavilion,Pavilion-7331,Business,14.0,FHD TN,Apple M2,32GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.6,116720,4.6,Gaming
+HP,Inspiron,Inspiron-9916,Developer,15.6,QHD OLED,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.8,146539,3.8,Gaming
+Apple,ThinkPad,ThinkPad-1237,Student,14.0,Retina,Intel i7,16GB,1TB SSD,NVIDIA RTX 4060,Windows,Ventura,1.2,117983,4.9,Business
+Dell,ROG,ROG-2917,Business,14.0,FHD TN,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,macOS,12,1.2,113588,3.8,Student
+Apple,MacBook,MacBook-5280,Gaming,13.3,FHD IPS,Ryzen 7,16GB,512GB SSD,NVIDIA RTX 3050,Windows,11,1.6,135490,4.5,Gaming
+Asus,Pavilion,Pavilion-9946,Business,14.0,QHD OLED,Intel i5,8GB,256GB SSD,Integrated,Windows,Ventura,1.2,117401,4.9,Student
+Asus,ThinkPad,ThinkPad-5857,Gaming,13.3,FHD TN,Ryzen 5,16GB,256GB SSD,Integrated,Linux,Ventura,1.8,69277,5.0,Student
+Lenovo,ThinkPad,ThinkPad-6364,Business,14.0,FHD TN,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,Linux,12,2.0,114299,5.0,Office
+HP,ThinkPad,ThinkPad-9054,Office,14.0,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.6,106001,4.4,Student
+Asus,ROG,ROG-6292,Developer,14.0,Retina,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.8,146428,5.0,Student
+Asus,ROG,ROG-8040,Student,15.6,Retina,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,11,1.4,123965,4.6,Business
+Asus,Pavilion,Pavilion-2110,Developer,13.3,Retina,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,macOS,12,1.6,121325,4.9,Student
+Asus,MacBook,MacBook-8144,Student,13.3,FHD TN,Intel i7,8GB,512GB SSD,Integrated,Linux,11,1.4,97345,5.0,Developer
+Dell,ThinkPad,ThinkPad-6049,Developer,14.0,QHD OLED,Apple M2,8GB,256GB SSD,Integrated,Linux,Ventura,2.0,63401,3.6,Office
+Asus,ROG,ROG-5665,Business,13.3,FHD TN,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.2,96568,3.8,Office
+Apple,ThinkPad,ThinkPad-7828,Student,16.0,FHD IPS,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,Windows,11,1.4,91305,4.1,Business
+Apple,ROG,ROG-1907,Business,15.6,FHD TN,Ryzen 7,16GB,1TB SSD,NVIDIA RTX 4060,macOS,11,2.0,84040,4.0,Office
+HP,MacBook,MacBook-9315,Gaming,13.3,QHD OLED,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,1.6,113367,4.9,Gaming
+HP,Inspiron,Inspiron-8831,Business,14.0,Retina,Apple M2,16GB,256GB SSD,Integrated,macOS,Ubuntu 22.04,1.4,125319,3.8,Developer
+Asus,Pavilion,Pavilion-1204,Student,14.0,QHD OLED,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.6,139836,4.9,Student
+HP,MacBook,MacBook-7749,Business,16.0,QHD OLED,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.6,111656,4.9,Student
+Lenovo,MacBook,MacBook-6010,Gaming,13.3,FHD TN,Intel i7,32GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.4,126375,3.9,Student
+Apple,Pavilion,Pavilion-5542,Gaming,15.6,Retina,Intel i5,8GB,1TB SSD,Integrated,macOS,Ventura,1.8,138689,5.0,Business
+Asus,MacBook,MacBook-1533,Office,14.0,FHD TN,Ryzen 7,16GB,1TB SSD,Integrated,Windows,Ventura,2.0,124872,4.6,Student
+Apple,ROG,ROG-6878,Student,14.0,FHD IPS,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.8,123173,4.3,Business
+Asus,ROG,ROG-1380,Developer,13.3,FHD IPS,Ryzen 5,8GB,1TB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,2.0,141294,4.0,Business
+Dell,Inspiron,Inspiron-2334,Office,16.0,Retina,Intel i5,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.6,97282,4.7,Student
+HP,Pavilion,Pavilion-7838,Student,14.0,FHD IPS,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 3050,Windows,11,1.8,127485,4.6,Developer
+Asus,Inspiron,Inspiron-6842,Gaming,16.0,FHD TN,Intel i7,8GB,512GB SSD,Integrated,Windows,Ventura,1.2,92832,4.0,Office
+Dell,MacBook,MacBook-2744,Office,15.6,FHD IPS,Intel i5,32GB,1TB SSD,Integrated,Linux,Ubuntu 22.04,1.4,80391,3.7,Gaming
+Dell,ThinkPad,ThinkPad-1102,Student,16.0,FHD IPS,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Windows,11,2.0,94494,3.8,Student
+Asus,Inspiron,Inspiron-9542,Business,14.0,FHD TN,Intel i7,32GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.4,105768,4.6,Developer
+Dell,Pavilion,Pavilion-5100,Gaming,13.3,FHD IPS,Ryzen 5,32GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.4,119118,4.0,Gaming
+Dell,ROG,ROG-9850,Office,16.0,FHD TN,Ryzen 7,16GB,256GB SSD,NVIDIA RTX 4060,Windows,12,1.6,57491,3.6,Gaming
+Asus,ThinkPad,ThinkPad-6787,Developer,16.0,FHD TN,Intel i7,32GB,256GB SSD,Integrated,Windows,12,1.8,88661,4.5,Student
+Lenovo,Pavilion,Pavilion-6484,Office,16.0,Retina,Intel i7,32GB,512GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,2.0,90642,3.6,Developer
+HP,ThinkPad,ThinkPad-6254,Office,16.0,Retina,Apple M2,8GB,256GB SSD,Integrated,Linux,Ventura,1.6,61252,4.0,Student
+Lenovo,Inspiron,Inspiron-4547,Office,13.3,FHD IPS,Intel i7,16GB,512GB SSD,Integrated,Linux,12,1.4,107392,4.4,Student
+Lenovo,Pavilion,Pavilion-2926,Developer,16.0,FHD IPS,Apple M2,16GB,256GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,59274,4.1,Student
+HP,ThinkPad,ThinkPad-7586,Office,13.3,FHD IPS,Apple M2,32GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.8,66952,4.7,Developer
+Lenovo,Pavilion,Pavilion-4196,Business,15.6,Retina,Apple M2,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Ventura,1.8,142562,4.0,Student
+Dell,ROG,ROG-8791,Business,13.3,FHD IPS,Intel i5,8GB,256GB SSD,NVIDIA RTX 3050,Windows,11,1.6,109487,4.0,Gaming
+Asus,MacBook,MacBook-5773,Student,14.0,QHD OLED,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,Windows,12,2.0,120769,4.2,Developer
+Asus,ROG,ROG-7763,Gaming,13.3,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.4,96290,4.6,Gaming
+HP,MacBook,MacBook-8041,Student,16.0,Retina,Intel i7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,12,1.6,96580,3.9,Student
+Apple,Inspiron,Inspiron-6312,Gaming,15.6,FHD TN,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.2,110984,4.7,Developer
+Apple,MacBook,MacBook-9191,Gaming,16.0,Retina,Ryzen 5,8GB,512GB SSD,Integrated,Windows,Ventura,1.6,65172,4.5,Office
+HP,ROG,ROG-9576,Developer,16.0,QHD OLED,Intel i7,32GB,1TB SSD,Integrated,macOS,Ubuntu 22.04,1.6,135847,4.0,Business
+HP,Inspiron,Inspiron-3078,Business,13.3,FHD IPS,Ryzen 7,16GB,512GB SSD,Integrated,macOS,12,1.8,57497,3.8,Student
+Dell,MacBook,MacBook-7890,Developer,14.0,Retina,Intel i5,8GB,256GB SSD,Integrated,Windows,12,2.0,118091,4.2,Student
+Apple,ROG,ROG-5796,Developer,13.3,Retina,Ryzen 5,32GB,1TB SSD,Integrated,Linux,Ubuntu 22.04,1.4,50106,4.2,Developer
+Apple,Pavilion,Pavilion-1381,Business,13.3,FHD TN,Ryzen 7,8GB,512GB SSD,NVIDIA RTX 4060,Windows,12,1.8,121781,4.3,Business
+HP,ThinkPad,ThinkPad-9204,Developer,13.3,FHD IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,macOS,12,1.6,103012,5.0,Student
+HP,MacBook,MacBook-7047,Gaming,15.6,FHD TN,Apple M2,8GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.2,82727,3.9,Developer
+Asus,MacBook,MacBook-3801,Business,13.3,QHD OLED,Ryzen 5,32GB,512GB SSD,Integrated,Windows,11,1.4,123559,4.5,Business
+Apple,MacBook,MacBook-7417,Student,15.6,FHD TN,Intel i7,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.2,143634,4.6,Developer
+Dell,ROG,ROG-1634,Business,14.0,QHD OLED,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,11,1.6,116165,4.8,Office
+Lenovo,Pavilion,Pavilion-4235,Business,14.0,QHD OLED,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,Linux,12,1.2,64728,3.9,Gaming
+Asus,Pavilion,Pavilion-6960,Gaming,15.6,FHD IPS,Ryzen 5,16GB,1TB SSD,Integrated,macOS,11,1.2,104100,4.4,Business
+HP,ROG,ROG-9530,Student,16.0,Retina,Intel i7,16GB,256GB SSD,Integrated,macOS,11,1.2,129571,4.9,Business
+Apple,ROG,ROG-7305,Student,16.0,FHD TN,Ryzen 7,8GB,256GB SSD,Integrated,Windows,11,1.8,94154,3.7,Gaming
+Dell,ThinkPad,ThinkPad-7104,Gaming,16.0,FHD TN,Apple M2,32GB,256GB SSD,NVIDIA RTX 4060,Linux,11,1.4,77034,4.1,Student
+Apple,Inspiron,Inspiron-7721,Office,16.0,Retina,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Linux,Ventura,2.0,101452,4.2,Business
+Lenovo,Inspiron,Inspiron-7957,Office,13.3,FHD TN,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.4,57973,5.0,Business
+Apple,ROG,ROG-8568,Student,16.0,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 4060,Linux,11,1.2,103667,4.0,Developer
+Apple,Inspiron,Inspiron-9073,Gaming,15.6,FHD TN,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 4060,Windows,12,1.8,78759,4.5,Gaming
+Lenovo,ThinkPad,ThinkPad-6933,Developer,15.6,Retina,Apple M2,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.6,68690,4.4,Developer
+HP,Inspiron,Inspiron-5327,Business,14.0,FHD TN,Intel i5,8GB,256GB SSD,NVIDIA RTX 3050,Windows,12,1.2,129099,4.6,Business
+Lenovo,Pavilion,Pavilion-2024,Business,13.3,FHD IPS,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.4,101047,4.5,Office
+Apple,ROG,ROG-7333,Student,14.0,FHD IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,macOS,11,1.8,140259,4.6,Developer
+Lenovo,MacBook,MacBook-2934,Developer,14.0,FHD IPS,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,Windows,11,1.8,100574,3.8,Office
+HP,Inspiron,Inspiron-3253,Business,13.3,QHD OLED,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 3050,Linux,11,2.0,77744,3.9,Developer
+Apple,Inspiron,Inspiron-9640,Gaming,14.0,FHD TN,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,macOS,11,1.2,64223,3.6,Developer
+Lenovo,ROG,ROG-1985,Student,15.6,QHD OLED,Intel i5,32GB,1TB SSD,Integrated,Linux,11,2.0,80520,4.2,Student
+Lenovo,Inspiron,Inspiron-7389,Business,13.3,Retina,Intel i7,16GB,512GB SSD,Integrated,Linux,Ventura,1.4,146039,4.5,Gaming
+Asus,ROG,ROG-6718,Student,16.0,FHD TN,Ryzen 5,32GB,256GB SSD,Integrated,Windows,Ubuntu 22.04,1.2,100684,4.5,Gaming
+Dell,ThinkPad,ThinkPad-6044,Student,16.0,FHD TN,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.4,101950,3.7,Gaming
+Apple,Inspiron,Inspiron-2837,Business,13.3,FHD TN,Intel i5,32GB,512GB SSD,Integrated,Linux,11,2.0,88842,4.0,Office
+Lenovo,ThinkPad,ThinkPad-4801,Business,13.3,QHD OLED,Intel i7,8GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.8,60421,4.3,Office
+Dell,MacBook,MacBook-9040,Office,15.6,QHD OLED,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,macOS,12,2.0,59982,4.9,Gaming
+Apple,ROG,ROG-9527,Business,16.0,QHD OLED,Ryzen 5,8GB,1TB SSD,Integrated,Windows,11,1.6,99073,4.6,Business
+Asus,MacBook,MacBook-9209,Student,14.0,Retina,Ryzen 7,32GB,256GB SSD,Integrated,Linux,12,1.2,143682,4.9,Student
+Lenovo,Inspiron,Inspiron-4435,Student,16.0,QHD OLED,Intel i5,32GB,512GB SSD,NVIDIA RTX 3050,Linux,11,2.0,107772,4.3,Office
+Dell,Inspiron,Inspiron-5776,Office,16.0,FHD TN,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Linux,11,1.6,93437,4.0,Student
+Dell,ROG,ROG-3283,Student,16.0,FHD TN,Ryzen 5,8GB,256GB SSD,Integrated,Windows,11,1.8,61226,4.4,Office
+Apple,Inspiron,Inspiron-9765,Office,14.0,FHD IPS,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,macOS,11,1.2,90533,4.1,Business
+Lenovo,Inspiron,Inspiron-5194,Student,13.3,FHD TN,Apple M2,32GB,1TB SSD,Integrated,Windows,Ubuntu 22.04,1.8,81209,3.6,Developer
+Asus,Inspiron,Inspiron-8004,Gaming,16.0,QHD OLED,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.2,56695,3.6,Developer
+Dell,ROG,ROG-2608,Developer,16.0,QHD OLED,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.8,129601,4.8,Gaming
+Apple,ThinkPad,ThinkPad-4715,Developer,14.0,Retina,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 3050,macOS,Ventura,1.2,60496,3.7,Business
+Asus,ROG,ROG-9230,Student,14.0,Retina,Ryzen 5,16GB,256GB SSD,NVIDIA RTX 4060,Linux,Ventura,1.8,80273,4.6,Office
+Apple,ROG,ROG-7419,Student,15.6,Retina,Apple M2,8GB,512GB SSD,NVIDIA RTX 4060,Linux,12,1.2,52623,4.7,Student
+Dell,Pavilion,Pavilion-6281,Gaming,14.0,QHD OLED,Apple M2,16GB,256GB SSD,Integrated,Linux,11,1.8,140015,3.5,Business
+Asus,ThinkPad,ThinkPad-6278,Office,14.0,FHD TN,Apple M2,16GB,512GB SSD,NVIDIA RTX 4060,Windows,11,1.2,130084,3.6,Developer
+Apple,Pavilion,Pavilion-1885,Office,15.6,FHD IPS,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,11,1.8,107386,4.9,Office
+Lenovo,ThinkPad,ThinkPad-8406,Developer,15.6,QHD OLED,Intel i5,8GB,512GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,124128,4.6,Developer
+Lenovo,ThinkPad,ThinkPad-4852,Gaming,15.6,FHD TN,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.2,136618,4.1,Student
+Apple,MacBook,MacBook-3551,Gaming,13.3,QHD OLED,Ryzen 7,32GB,1TB SSD,Integrated,Windows,11,1.4,86346,4.6,Student
+Lenovo,ROG,ROG-7755,Gaming,15.6,FHD IPS,Apple M2,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.6,135827,4.1,Business
+Dell,ROG,ROG-5307,Developer,14.0,FHD TN,Intel i5,8GB,256GB SSD,NVIDIA RTX 4060,macOS,12,1.6,68754,3.8,Developer
+HP,Inspiron,Inspiron-4911,Office,15.6,FHD TN,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,Windows,12,2.0,76504,4.0,Student
+Lenovo,Pavilion,Pavilion-2011,Office,15.6,FHD IPS,Ryzen 5,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,2.0,141296,3.8,Developer
+Dell,ROG,ROG-7723,Developer,13.3,FHD TN,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Windows,Ventura,2.0,52604,3.9,Gaming
+Asus,ROG,ROG-6188,Business,14.0,Retina,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,Linux,12,2.0,59882,4.4,Gaming
+Dell,Pavilion,Pavilion-5952,Developer,15.6,QHD OLED,Intel i5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,12,1.8,137917,4.8,Office
+Lenovo,Inspiron,Inspiron-7459,Business,13.3,Retina,Intel i5,16GB,256GB SSD,Integrated,Linux,11,1.2,98339,3.9,Business
+Asus,ROG,ROG-3683,Developer,13.3,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,macOS,11,1.4,100813,4.8,Developer
+HP,Pavilion,Pavilion-6172,Student,14.0,QHD OLED,Ryzen 7,16GB,512GB SSD,Integrated,Linux,12,1.8,148161,3.8,Student
+Apple,Pavilion,Pavilion-5933,Developer,14.0,Retina,Apple M2,32GB,256GB SSD,NVIDIA RTX 3050,Linux,Ventura,1.8,63489,3.7,Developer
+HP,Pavilion,Pavilion-6588,Student,14.0,FHD TN,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.8,57995,4.5,Student
+Dell,Inspiron,Inspiron-6809,Student,15.6,FHD TN,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,Windows,11,1.4,121519,4.5,Student
+Lenovo,Inspiron,Inspiron-4404,Student,13.3,FHD TN,Apple M2,32GB,1TB SSD,NVIDIA RTX 3050,Linux,Ventura,1.2,88265,3.6,Office
+Dell,Pavilion,Pavilion-4988,Office,16.0,Retina,Intel i7,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Ventura,1.8,139838,4.4,Office
+Lenovo,ROG,ROG-3787,Business,15.6,FHD IPS,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,macOS,12,1.2,98674,4.1,Office
+Dell,MacBook,MacBook-2446,Office,14.0,FHD IPS,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Windows,11,1.6,90859,3.6,Office
+Dell,Inspiron,Inspiron-5510,Office,14.0,FHD TN,Apple M2,32GB,1TB SSD,Integrated,Linux,Ubuntu 22.04,2.0,107570,4.3,Gaming
+Lenovo,Inspiron,Inspiron-1425,Business,13.3,FHD IPS,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,Linux,12,1.8,86284,5.0,Gaming
+HP,Inspiron,Inspiron-8104,Office,16.0,FHD TN,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.2,141344,4.2,Office
+HP,ThinkPad,ThinkPad-3122,Student,16.0,FHD TN,Intel i5,16GB,512GB SSD,NVIDIA RTX 4060,macOS,11,2.0,137417,3.7,Office
+Asus,Pavilion,Pavilion-1557,Office,14.0,FHD TN,Intel i5,16GB,256GB SSD,NVIDIA RTX 4060,Windows,12,1.6,120744,4.2,Student
+HP,Inspiron,Inspiron-8508,Business,16.0,Retina,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,Linux,12,1.8,145063,4.7,Developer
+Apple,Inspiron,Inspiron-6224,Business,15.6,FHD TN,Ryzen 5,8GB,512GB SSD,Integrated,Windows,Ubuntu 22.04,1.8,125506,4.7,Office
+Apple,ROG,ROG-7877,Student,13.3,FHD IPS,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.8,85917,4.6,Student
+Lenovo,Inspiron,Inspiron-7169,Student,16.0,QHD OLED,Intel i7,8GB,1TB SSD,Integrated,macOS,Ventura,1.4,112974,4.7,Developer
+Apple,ThinkPad,ThinkPad-1200,Developer,14.0,QHD OLED,Intel i5,32GB,512GB SSD,NVIDIA RTX 3050,Windows,11,2.0,131080,4.9,Student
+Lenovo,Pavilion,Pavilion-5357,Gaming,16.0,FHD IPS,Intel i5,32GB,512GB SSD,Integrated,Linux,12,2.0,69790,3.9,Developer
+HP,ThinkPad,ThinkPad-9987,Student,16.0,QHD OLED,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,Linux,12,1.4,67707,3.5,Gaming
+Lenovo,ThinkPad,ThinkPad-9883,Business,14.0,FHD TN,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.2,120853,4.9,Developer
+Apple,Inspiron,Inspiron-6937,Gaming,15.6,Retina,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.4,112097,3.9,Business
+Asus,ThinkPad,ThinkPad-2137,Business,14.0,QHD OLED,Intel i5,8GB,256GB SSD,Integrated,macOS,12,1.2,89348,3.7,Office
+Dell,MacBook,MacBook-1242,Business,13.3,QHD OLED,Apple M2,8GB,512GB SSD,NVIDIA RTX 3050,Linux,11,1.6,66747,4.4,Office
+Dell,MacBook,MacBook-4733,Office,14.0,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,12,1.8,52418,4.0,Developer
+HP,ThinkPad,ThinkPad-5409,Developer,16.0,Retina,Intel i7,8GB,256GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,1.2,53580,4.7,Office
+Asus,ROG,ROG-3215,Developer,13.3,Retina,Ryzen 5,8GB,256GB SSD,Integrated,macOS,12,1.2,104012,3.7,Office
+Apple,MacBook,MacBook-4211,Student,14.0,Retina,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.2,106857,3.9,Developer
+Dell,ROG,ROG-9950,Gaming,13.3,Retina,Ryzen 5,8GB,512GB SSD,NVIDIA RTX 4060,Windows,12,2.0,81352,4.7,Student
+Apple,ROG,ROG-2925,Business,13.3,QHD OLED,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 3050,Linux,Ubuntu 22.04,1.6,149151,4.9,Gaming
+Apple,ROG,ROG-7530,Developer,15.6,FHD TN,Ryzen 7,16GB,512GB SSD,Integrated,macOS,11,1.2,106331,3.7,Student
+Dell,Pavilion,Pavilion-8895,Developer,16.0,QHD OLED,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.6,94411,4.6,Developer
+Apple,ThinkPad,ThinkPad-7109,Office,13.3,QHD OLED,Apple M2,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ventura,2.0,63923,4.7,Business
+Asus,ThinkPad,ThinkPad-2169,Gaming,15.6,FHD TN,Intel i7,16GB,256GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,138684,3.9,Developer
+HP,MacBook,MacBook-8134,Gaming,15.6,FHD TN,Apple M2,16GB,1TB SSD,Integrated,Linux,12,2.0,63407,4.2,Student
+Lenovo,MacBook,MacBook-7210,Student,15.6,Retina,Intel i5,8GB,1TB SSD,NVIDIA RTX 3050,Linux,12,1.4,126726,3.7,Gaming
+HP,Pavilion,Pavilion-1117,Developer,13.3,Retina,Ryzen 7,8GB,1TB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,1.6,92198,4.8,Gaming
+Apple,MacBook,MacBook-3143,Office,13.3,FHD TN,Intel i5,32GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.6,135696,4.0,Developer
+Dell,ROG,ROG-6826,Office,15.6,FHD TN,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,macOS,11,1.2,86217,4.4,Gaming
+Dell,MacBook,MacBook-4172,Office,13.3,Retina,Intel i7,16GB,512GB SSD,Integrated,Linux,11,1.6,75663,4.3,Gaming
+Lenovo,Inspiron,Inspiron-2232,Office,13.3,FHD TN,Intel i7,16GB,1TB SSD,NVIDIA RTX 3050,macOS,Ubuntu 22.04,1.4,85174,4.9,Office
+Lenovo,MacBook,MacBook-5974,Student,15.6,QHD OLED,Ryzen 7,8GB,256GB SSD,Integrated,Linux,11,1.8,101458,3.6,Gaming
+Dell,Inspiron,Inspiron-8001,Student,16.0,FHD TN,Apple M2,8GB,1TB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,121232,3.6,Business
+Lenovo,Inspiron,Inspiron-6450,Student,14.0,FHD TN,Intel i5,16GB,1TB SSD,Integrated,Windows,Ubuntu 22.04,1.4,84063,4.2,Developer
+Lenovo,ROG,ROG-6475,Business,16.0,Retina,Intel i7,8GB,512GB SSD,NVIDIA RTX 4060,macOS,Ventura,1.8,82801,3.8,Gaming
+Apple,Pavilion,Pavilion-6181,Office,15.6,Retina,Intel i7,32GB,1TB SSD,Integrated,Linux,12,1.4,120664,3.6,Office
+Lenovo,MacBook,MacBook-4365,Student,14.0,FHD TN,Ryzen 7,8GB,256GB SSD,Integrated,Linux,11,1.8,72934,4.1,Student
+Dell,ThinkPad,ThinkPad-8923,Office,16.0,FHD IPS,Ryzen 5,32GB,1TB SSD,Integrated,Linux,Ubuntu 22.04,2.0,84545,3.8,Student
+Lenovo,ThinkPad,ThinkPad-8885,Business,15.6,Retina,Intel i7,8GB,256GB SSD,Integrated,Linux,Ubuntu 22.04,1.2,52471,4.7,Student
+Asus,Inspiron,Inspiron-1509,Student,15.6,FHD IPS,Apple M2,16GB,512GB SSD,NVIDIA RTX 4060,Linux,Ubuntu 22.04,1.8,93558,3.5,Student
+Apple,ROG,ROG-7836,Business,13.3,Retina,Intel i7,16GB,1TB SSD,Integrated,Linux,Ventura,1.8,94212,4.6,Office
+Asus,Pavilion,Pavilion-1431,Developer,16.0,Retina,Intel i7,32GB,256GB SSD,Integrated,Linux,Ventura,2.0,148699,4.7,Office
+Asus,Inspiron,Inspiron-6042,Business,16.0,FHD TN,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,12,2.0,117395,4.3,Developer
+Asus,MacBook,MacBook-8553,Developer,16.0,FHD IPS,Apple M2,16GB,512GB SSD,Integrated,Windows,12,1.2,52163,4.3,Gaming
+Apple,Inspiron,Inspiron-2082,Student,15.6,Retina,Intel i7,8GB,512GB SSD,Integrated,Windows,12,1.2,58492,4.8,Student
+Apple,Inspiron,Inspiron-1245,Developer,16.0,FHD TN,Ryzen 7,32GB,256GB SSD,Integrated,Windows,11,2.0,103913,4.3,Developer
+HP,ROG,ROG-6229,Gaming,14.0,QHD OLED,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,11,1.2,59275,3.8,Student
+Apple,ROG,ROG-4114,Business,14.0,FHD TN,Ryzen 7,8GB,256GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.6,95740,3.6,Gaming
+Dell,Pavilion,Pavilion-3337,Student,13.3,QHD OLED,Ryzen 7,16GB,512GB SSD,NVIDIA RTX 3050,Linux,12,2.0,91736,4.3,Office
+Dell,Pavilion,Pavilion-2031,Student,15.6,FHD TN,Intel i7,8GB,1TB SSD,NVIDIA RTX 3050,Windows,Ubuntu 22.04,1.2,106501,4.0,Student
+Asus,ThinkPad,ThinkPad-6998,Developer,13.3,Retina,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.6,60496,4.6,Business
+Dell,MacBook,MacBook-6429,Office,14.0,FHD IPS,Ryzen 7,8GB,512GB SSD,Integrated,Windows,11,1.6,55422,3.6,Business
+HP,MacBook,MacBook-1073,Developer,14.0,QHD OLED,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 4060,macOS,Ubuntu 22.04,2.0,136380,4.1,Student
+Dell,Pavilion,Pavilion-8129,Gaming,16.0,FHD TN,Intel i5,16GB,1TB SSD,Integrated,macOS,12,1.6,113772,4.6,Office
+Apple,Pavilion,Pavilion-3905,Student,15.6,FHD IPS,Intel i7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Ventura,1.2,127452,4.3,Gaming
+Apple,Pavilion,Pavilion-4313,Office,16.0,FHD IPS,Intel i5,16GB,512GB SSD,NVIDIA RTX 3050,Linux,12,1.2,63625,4.6,Gaming
+Lenovo,Pavilion,Pavilion-8825,Student,14.0,FHD IPS,Intel i7,32GB,512GB SSD,NVIDIA RTX 3050,macOS,12,1.2,107197,4.3,Office
+Dell,ThinkPad,ThinkPad-2175,Office,13.3,Retina,Intel i7,8GB,512GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.2,124322,4.5,Developer
+Dell,MacBook,MacBook-5888,Gaming,16.0,FHD IPS,Intel i5,8GB,256GB SSD,Integrated,Linux,11,2.0,137831,4.5,Gaming
+Dell,ThinkPad,ThinkPad-8546,Student,15.6,FHD IPS,Intel i5,8GB,1TB SSD,Integrated,Windows,12,1.6,124421,4.7,Office
+HP,ROG,ROG-3023,Gaming,15.6,FHD IPS,Intel i7,8GB,1TB SSD,Integrated,macOS,Ventura,1.8,99188,4.4,Student
+Dell,ThinkPad,ThinkPad-7674,Developer,13.3,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.4,96140,3.8,Gaming
+HP,MacBook,MacBook-9316,Gaming,13.3,Retina,Ryzen 7,8GB,256GB SSD,Integrated,Windows,11,1.2,132978,4.0,Gaming
+Lenovo,ROG,ROG-7405,Gaming,14.0,QHD OLED,Ryzen 5,32GB,512GB SSD,Integrated,Linux,Ventura,2.0,103789,4.5,Office
+Dell,Inspiron,Inspiron-9846,Student,15.6,Retina,Ryzen 5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,Ventura,1.4,116570,4.1,Developer
+Asus,MacBook,MacBook-5377,Office,16.0,FHD IPS,Ryzen 7,8GB,1TB SSD,Integrated,macOS,11,1.2,91643,4.7,Office
+Asus,ThinkPad,ThinkPad-6557,Student,14.0,FHD TN,Intel i5,32GB,256GB SSD,NVIDIA RTX 3050,macOS,12,1.8,119418,3.7,Developer
+Apple,ROG,ROG-7479,Student,13.3,FHD IPS,Intel i5,16GB,1TB SSD,Integrated,macOS,Ventura,1.8,128046,3.9,Gaming
+Lenovo,Pavilion,Pavilion-5392,Gaming,16.0,FHD TN,Ryzen 7,32GB,256GB SSD,NVIDIA RTX 4060,Windows,11,1.8,127525,4.5,Office
+Asus,ROG,ROG-2159,Office,16.0,QHD OLED,Apple M2,8GB,256GB SSD,Integrated,Linux,12,1.2,119854,4.1,Office
+Asus,ThinkPad,ThinkPad-3696,Gaming,13.3,Retina,Intel i7,16GB,256GB SSD,Integrated,macOS,11,1.8,124073,3.5,Developer
+Dell,ThinkPad,ThinkPad-5763,Office,15.6,FHD TN,Ryzen 7,32GB,512GB SSD,NVIDIA RTX 4060,Windows,Ventura,1.4,127932,4.4,Business
+Dell,ThinkPad,ThinkPad-8446,Gaming,13.3,QHD OLED,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Linux,Ventura,1.8,116066,4.1,Developer
+HP,Inspiron,Inspiron-9097,Developer,13.3,FHD TN,Ryzen 5,16GB,1TB SSD,NVIDIA RTX 4060,Linux,12,2.0,115858,4.2,Gaming
+Dell,Pavilion,Pavilion-6310,Student,16.0,FHD IPS,Apple M2,16GB,256GB SSD,Integrated,macOS,Ubuntu 22.04,1.6,93750,4.3,Developer
+HP,ThinkPad,ThinkPad-3539,Office,13.3,Retina,Ryzen 5,32GB,512GB SSD,NVIDIA RTX 3050,Windows,Ventura,1.8,106268,4.1,Gaming
+Dell,Inspiron,Inspiron-9448,Business,13.3,QHD OLED,Apple M2,8GB,512GB SSD,Integrated,Windows,Ubuntu 22.04,2.0,149135,3.5,Office
+Asus,Inspiron,Inspiron-4807,Developer,15.6,FHD IPS,Ryzen 5,32GB,1TB SSD,NVIDIA RTX 3050,Linux,11,1.8,133160,4.5,Business
+Apple,Inspiron,Inspiron-4773,Student,16.0,FHD TN,Ryzen 5,32GB,1TB SSD,NVIDIA RTX 3050,macOS,12,1.8,118142,3.7,Gaming
+Lenovo,ROG,ROG-6389,Office,16.0,QHD OLED,Ryzen 7,32GB,1TB SSD,NVIDIA RTX 4060,Windows,12,1.6,95306,4.0,Student
+Lenovo,Inspiron,Inspiron-4674,Gaming,13.3,FHD IPS,Intel i7,16GB,512GB SSD,NVIDIA RTX 4060,Windows,Ubuntu 22.04,2.0,93590,4.1,Business
+HP,ROG,ROG-7639,Office,14.0,QHD OLED,Ryzen 5,32GB,1TB SSD,Integrated,macOS,12,1.4,88410,4.8,Developer
+Lenovo,ThinkPad,ThinkPad-1759,Student,14.0,QHD OLED,Ryzen 5,8GB,256GB SSD,NVIDIA RTX 3050,Windows,12,1.8,50270,3.5,Business
